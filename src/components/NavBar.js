@@ -7,9 +7,7 @@ const navigation = [
   { name: 'Home', href: '/', current: true },
   { name: 'Search', href: '/search', current: true },
   { name: 'The Team', href: '/about', current: true },
-//   { name: 'Team', href: '#', current: false },
-//   { name: 'Projects', href: '#', current: false },
-//   { name: 'Calendar', href: '#', current: false },
+
 ]
 
 function classNames(...classes) {
@@ -34,8 +32,8 @@ export default function NavBar() {
                   )}
                 </Disclosure.Button>
               </div>
-              <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
-                <div className="flex flex-shrink-0 items-center">
+              <div className="flex flex-1  justify-center sm:items-stretch ">
+                <div className="flex flex-shrink-0 ">
                   <img
                     className="block h-8 w-auto lg:hidden"
                     src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
