@@ -1,5 +1,6 @@
 import React from 'react'
 
+
 function Search() {
   return (
     <div className="hero min-h-screen bg-base-200">

@@ -1,15 +1,14 @@
-import {BrowserRouter as Router, Routes, Route} from "react-router-dom"
-import Search from "./pages/Search"
+import React from "react";
+import {BrowserRouter} from "react-router-dom"
+import MainPage from "./components/MainPage";
 
 function App() {
   return (
-    <Router>
-    <div>
-      <Routes>
-        <Route path="/" element={<Search />} />
-      </Routes>
-    </div>
-    </Router>
+    <React.Fragment>
+      <BrowserRouter>
+        <MainPage />
+      </BrowserRouter>
+    </React.Fragment>
   );
 }
 
