@@ -3,6 +3,7 @@ import LocationCard from "../components/LocationCard";
 // import LineChart from "../components/LineChart";
 import Stats from "../components/Stats";
 // import MapCard from "../components/MapCard";
+import Image from '../components/Image'
 
 function Results() {
 
@@ -19,16 +20,14 @@ function Results() {
         {/* <Carousel /> */}
         <div className="mt-2 grid ">
         <LocationCard
-          city="Sydney"
+          city={city}
           population="3 million"
           description="Sydney, capital of New South Wales and one of Australia's largest cities, is best known for its harbourfront Sydney Opera House, with a distinctive sail-like design. Massive Darling Harbour and the smaller Circular Quay port are hubs of waterside life, with the arched Harbour Bridge and esteemed Royal Botanic Garden nearby. Sydney Tower’s outdoor platform, the Skywalk, offers 360-degree views of the city and suburbs."
-          image="https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80"
+          image={Image(`${country} ${city}`)}
         />
         {/* <MapCard /> */}
         </div>
       </div>
-
-
 
     {/* <LineChart /> */}
 
