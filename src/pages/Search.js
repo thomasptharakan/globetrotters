@@ -1,5 +1,5 @@
 import React from 'react'
-
+import Weather from '../components/Weather';
 
 function Search() {
   return (
@@ -22,6 +22,7 @@ function Search() {
             <span className="label-text">To</span>
           </label>
           <input type="text" className="input input-bordered" />
+          <Weather location="London"/>
         </div>
         <div className="form-control mt-6">
           <button className="btn btn-accent">Search</button>
