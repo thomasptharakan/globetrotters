@@ -1,38 +1,40 @@
+import { NavLink } from "react-router-dom";
+
 export default function Home() {
 
   return (
     <div className="bg-white">
-     
-
       <div className="relative isolate px-6 pt-14 lg:px-8">
-        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56">
+        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56" style={{padding:0}}>
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
-              Announcing our next round of funding.{' '}
-              <a href="/#" className="font-semibold text-indigo-600">
+              Developed by Team GlobeTrotter.{' '}
+
+
+              <NavLink to="About" className="font-semibold text-indigo-600">
                 <span className="absolute inset-0" aria-hidden="true" />
-                Read more <span aria-hidden="true">&rarr;</span>
-              </a>
+                About Us <span aria-hidden="true">&rarr;</span>
+              </NavLink>
             </div>
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Data to enrich your online business
+              Find Details about any City in the World
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+              Be a GlobeTrotter and find details about your next desitination
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-              <a
-                href="/#"
-                className="rounded-md bg-indigo-600 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600"
-              >
-                Get started
-              </a>
-              <a href="/#" className="text-sm font-semibold leading-6 text-gray-900">
-                Learn more <span aria-hidden="true">→</span>
-              </a>
+            <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
+          <div className="card-body">
+            <div className="form-control">
+              <input type="text" placeholder="City" className="input input-bordered" />
+            </div>
+            <div className="form-control mt-6">
+              <button className="btn btn-accent"><NavLink to="Results">Search</NavLink></button>
+            </div>
+          </div>
+        </div>
             </div>
           </div>
         </div>
