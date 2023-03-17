@@ -7,17 +7,17 @@ const Weather = (props) => {
   // const uri = `https://api.openweathermap.org/data/2.5/forecast?q=${props.location}&appid=${process.env.REACT_APP_WEATHER_API_KEY}`;
   
   function createCard(resdata)  {
+    let weather =[];
     for (let i in resdata.list){
       let dateObj = new Date(resdata.list[i].dt_txt);
       const currentTime = new Date();
       if (dateObj > currentTime) {
         if (dateObj.getHours() == 12){
-          console.log(resdata.list[i].main.feels_like);
+          let temp = Number(resdata.list[i].main.feels_like);
+          console.log(temp);
           let icn = "https://openweathermap.org/img/wn/"+ resdata.list[i].weather[0].icon + "@2x.png";
           console.log(icn);
-
         }
-        
       }
     }
   }
