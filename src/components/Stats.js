@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import moment from "moment";
+import Weather from "./Weather"
 
 
 
@@ -10,8 +11,6 @@ function Stats({ flights, countrySearch, population }) {
   useEffect(() => {
     const fetchData = async () => {
       const result = await axios("https://api.covid19api.com/summary");
-
-      console.log(result);
 
       for(let i = 0; i < result.data.Countries.length; i++){
         try {
@@ -23,8 +22,7 @@ function Stats({ flights, countrySearch, population }) {
           }  
         } catch (error) {
           console.log(error)
-        }
-        
+        } 
       }
     };
     fetchData();
@@ -46,11 +44,8 @@ function Stats({ flights, countrySearch, population }) {
         <div className="stat-desc text-secondary">As of {newDate}</div>
       </div>
 
-      <div className="stat place-items-center">
-        <div className="stat-title">Average Flights</div>
-        <div className="stat-value">£{flights}</div>
-        <div className="stat-desc">Return per person</div>
-      </div>
+      <Weather />
+
     </div>
   );
 }
