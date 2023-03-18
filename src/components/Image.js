@@ -1,10 +1,9 @@
 import axios from "axios";
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
 function Image(destination) {
 
     const [linkArray, setLinksArray] = useState()
-    const [loading, setLoading] = useState(false)
 
     const getFlickrImageURL = (photo, size) => {
         let url = `https://farm${photo.farm}.staticflickr.com/${photo.server}/${photo.id}_${photo.secret
@@ -30,7 +29,7 @@ function Image(destination) {
 
     const parameters = new URLSearchParams(params);
     const url = `https://api.flickr.com/services/rest/?${parameters}`;
-    if (!loading) {
+    const apiReq = async () => {
         axios.get(url)
             .then(data => {
                 console.log(data)
@@ -38,12 +37,16 @@ function Image(destination) {
                     console.log(getFlickrImageURL(photo, 'b'))
                     return (getFlickrImageURL(photo, 'b'));
                 }))
-                setLoading(true)
             })
-    }
 
-    if(loading) {
-    return (linkArray)}
+    };
+
+    useEffect(() => {
+        apiReq();
+    }, []);
+
+
+    return (linkArray)
 
 }
 
