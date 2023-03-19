@@ -7,6 +7,7 @@ function LocationCard({ country ,description, image }) {
         <img
           src={image}
           alt="destination"
+          className="rounded-lg m-4 min-h-full"
         />
       </figure>
       <div className="card-body">

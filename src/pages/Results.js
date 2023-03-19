@@ -12,7 +12,7 @@ function Results(props) {
 console.log(`The country from the search is ${country}`);
   return (
     <div className="container mx-auto mt-8">
-      <h1 className="text-6xl mb-6">{country} <span className="text-2xl">{city}</span></h1>
+      <h1 className="text-6xl mb-6 text-secondary">{country} <span className="text-2xl text-cyan-600">{city}</span></h1>
       <div className="grid mb-6">
         <Stats location={country} city={city} />
         

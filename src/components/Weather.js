@@ -45,12 +45,12 @@ const Weather = (props) => {
   return (
     <React.Fragment>
         <div className="stat place-items-center">
-          <div className="stat-title">Highest Temperature</div>
+          <div className="stat-title text-cyan-600">Highest Temperature</div>
           <div className="stat-value"><img alt="High Weather Icon" src={weather.HighWeatherIcon}/></div>
           <div className="stat-desc">{weather.HighWeather}°C</div>
         </div>
         <div className="stat place-items-center">
-          <div className="stat-title">Lowest Temperature</div>
+          <div className="stat-title text-cyan-600">Lowest Temperature</div>
           <div className="stat-value"><img alt="Low Weather Icon" src={weather.LowWeatherIcon}/></div>
           <div className="stat-desc">{weather.LowWeather}°C</div>
         </div>

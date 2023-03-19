@@ -31,7 +31,7 @@ const Covid = (props) => {
   return (
     
     <div className="stat place-items-center">
-    <div className="stat-title">New Confirmed Covid Cases in {countrySearch}</div>
+    <div className="stat-title text-cyan-600">New Confirmed Covid Cases</div>
     <div className="stat-value text-secondary">{covidData.newCases}</div>
     <div className="stat-desc text-secondary">As of {covidData.date}</div>
   </div>

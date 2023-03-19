@@ -7,7 +7,7 @@ const currDate = moment(Date()).format("MMMM YYYY");
   return (
     
       <div className="stat place-items-center">
-        <div className="stat-title">Population</div>
+        <div className="stat-title text-cyan-600">Population</div>
         <div className="stat-value">{location}</div>
         <div className="stat-desc">As of {currDate}</div>
       </div>
