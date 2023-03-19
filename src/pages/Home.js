@@ -1,16 +1,36 @@
 import { NavLink } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
+import { useState } from "react";
 
 export default function Home() {
 
+  const navigate = useNavigate();
+  const [country, setCountry] = useState("");
+
+  const handleCountryInput = event => {
+    setCountry(event.target.value);
+  }
+
+  function handleEvent(event) {
+    event.preventDefault();
+    if (country!== ""){
+      navigate("/Results",{
+        state:{
+          location:country
+        }
+      });
+    }else{
+       alert("Numpty");
+    }
+    
+  }
   return (
     <div className="bg-white">
       <div className="relative isolate px-6 pt-14 lg:px-8">
-        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56" style={{padding:0}}>
+        <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56" style={{ padding: 0 }}>
           <div className="hidden sm:mb-8 sm:flex sm:justify-center">
             <div className="relative rounded-full py-1 px-3 text-sm leading-6 text-gray-600 ring-1 ring-gray-900/10 hover:ring-gray-900/20">
               Developed by Team GlobeTrotter.{' '}
-
-
               <NavLink to="About" className="font-semibold text-indigo-600">
                 <span className="absolute inset-0" aria-hidden="true" />
                 About Us <span aria-hidden="true">&rarr;</span>
@@ -19,22 +39,24 @@ export default function Home() {
           </div>
           <div className="text-center">
             <h1 className="text-4xl font-bold tracking-tight text-gray-900 sm:text-6xl">
-              Find Details about any City in the World
+              Find Details about any Country in the World
             </h1>
             <p className="mt-6 text-lg leading-8 text-gray-600">
-              Be a GlobeTrotter and find details about your next desitination
+              Be a GlobeTrotter and find details about your next destination
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
-            <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
-          <div className="card-body">
-            <div className="form-control">
-              <input type="text" placeholder="City" className="input input-bordered" />
-            </div>
-            <div className="form-control mt-6">
-              <button className="btn btn-accent"><NavLink to="Results">Search</NavLink></button>
-            </div>
-          </div>
-        </div>
+              <div className="card flex-shrink-0 w-full max-w-sm shadow-2xl bg-base-100">
+                <form>
+                  <div className="card-body">
+                    <div className="form-control">
+                      <input type="text" placeholder="Country" onChange={handleCountryInput} className="input input-bordered" name="searchCountry" />
+                    </div>
+                    <div className="form-control mt-6">
+                      <button className="btn btn-accent" onClick={handleEvent}>Search</button>
+                    </div>
+                  </div>
+                </form>
+              </div>
             </div>
           </div>
         </div>

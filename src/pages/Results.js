@@ -1,21 +1,21 @@
 import React from "react";
 import LocationCard from "../components/LocationCard";
-// import LineChart from "../components/LineChart";
 import Stats from "../components/Stats";
-// import MapCard from "../components/MapCard";
 import Image from '../components/Image'
+import { useLocation } from "react-router-dom";
 
-function Results() {
+function Results(props) {
 
   const city = "Madrid"
-  const country = "Spain"
-
-
+  // const country = "United Kingdom"
+  const location = useLocation();
+  const country = location.state.location;
+console.log(`The country from the search is ${country}`);
   return (
     <div className="container mx-auto mt-8">
       <h1 className="text-6xl mb-6">{city} <span className="text-2xl">{country}</span></h1>
       <div className="grid mb-6">
-        <Stats population="3,000,000" covid="145" flights="1,200" />
+        <Stats location={country} />
         
         {/* <Carousel /> */}
         <div className="mt-2 grid ">
