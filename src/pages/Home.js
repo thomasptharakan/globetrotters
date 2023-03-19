@@ -1,14 +1,19 @@
 import { NavLink } from "react-router-dom";
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
+import Select from 'react-select';
+import countryList from "react-select-country-list";
+import { useMemo } from "react";
 
 export default function Home() {
 
   const navigate = useNavigate();
   const [country, setCountry] = useState("");
+  const options = useMemo(() => countryList().getData(), [])
 
-  const handleCountryInput = event => {
-    setCountry(event.target.value);
+  const handleCountryInput = value => {
+    setCountry(value);
+    console.log(value.label);
   }
 
   function handleEvent(event) {
@@ -16,7 +21,7 @@ export default function Home() {
     if (country!== ""){
       navigate("/Results",{
         state:{
-          location:country
+          location:country.label
         }
       });
     }else{
@@ -49,7 +54,8 @@ export default function Home() {
                 <form>
                   <div className="card-body">
                     <div className="form-control">
-                      <input type="text" placeholder="Country" onChange={handleCountryInput} className="input input-bordered" name="searchCountry" />
+                      {/* <input type="text" placeholder="Country" onChange={handleCountryInput} className="input input-bordered" name="searchCountry" /> */}
+                      <Select options={options} value={country} onChange={handleCountryInput} />
                     </div>
                     <div className="form-control mt-6">
                       <button className="btn btn-accent" onClick={handleEvent}>Search</button>
