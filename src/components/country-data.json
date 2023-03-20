@@ -1,0 +1,1579 @@
+{
+    "Andorra": {
+        "description-country": "Andorra is a small, landlocked country in the Pyrenees mountains between France and Spain, known for its ski resorts, duty-free shopping, and tax haven status. It has a population of around 77,000 people and an area of 468 square kilometers.",
+        "description-city": "Andorra la Vella is the capital city of Andorra, located in the southwest of the country. It is the highest capital city in Europe, situated at an altitude of 1,023 meters above sea level. The city is known for its historic old town, thermal baths, and mountain scenery.",
+        "code": "AD",
+        "capital": "Andorra la Vella"
+    },
+    "United Arab Emirates": {
+        "description-country": "The United Arab Emirates (UAE) is a federation of seven emirates in the southeast of the Arabian Peninsula. It is a major oil producer and is known for its luxurious hotels, skyscrapers, and shopping malls. The UAE has a population of around 10 million people and an area of 83,600 square kilometers.",
+        "description-city": "Abu Dhabi is the capital city of the UAE and is located on an island in the Persian Gulf. It is known for its modern architecture, high-end shopping, and cultural institutions like the Louvre Abu Dhabi museum.",
+        "capital": "Abu Dhabi"
+    },
+    "Afghanistan": {
+        "description-country": "Afghanistan is a landlocked country in South Asia and Central Asia. It has a population of around 38 million people and an area of 652,230 square kilometers. Afghanistan is known for its rugged terrain, natural beauty, and rich cultural heritage.",
+        "description-city": "Kabul is the capital city of Afghanistan and is located in the eastern part of the country. It has a population of around 4 million people and is known for its bazaars, mosques, and historic landmarks like the Babur Gardens.",
+        "code": "AF",
+        "capital": "Kabul"
+    },
+    "Antigua and Barbuda": {
+        "description-country": "Antigua and Barbuda is a small island nation in the Caribbean Sea, consisting of two main islands and several smaller ones. It has a population of around 103,000 people and an area of 440 square kilometers. Antigua and Barbuda is known for its beaches, coral reefs, and sailing.",
+        "description-city": "St. John's is the capital city of Antigua and Barbuda and is located on the island of Antigua. It has a population of around 22,000 people and is known for its historic architecture, shopping, and restaurants.",
+        "code": "AG",
+        "capital": "St. John's"
+    },
+    "Anguilla": {
+        "description-country": "Anguilla is a British overseas territory in the Caribbean Sea, consisting of one main island and several smaller ones. It has a population of around 15,000 people and an area of 91 square kilometers. Anguilla is known for its beaches, turquoise waters, and laid-back atmosphere.",
+        "description-city": "The Valley is the capital city of Anguilla and is located on the island of Anguilla. It has a population of around 2,000 people and is known for its government buildings, shopping, and restaurants.",
+        "code": "AI",
+        "capital": "The Valley"
+    },
+    "Albania": {
+        "description-country": "Albania is a small, mountainous country in southeastern Europe, bordered by Montenegro, Kosovo, North Macedonia, and Greece. It has a population of around 2.9 million people and an area of 28,748 square kilometers.",
+        "description-city": "Tirana is the capital and largest city of Albania, located in the center of the country. It has a population of around 1 million people and is known for its mix of Ottoman, Italian, and communist-era architecture.",
+        "code": "AL",
+        "capital": "Tirana"
+    },
+    "Armenia": {
+        "description-country": "Armenia is a landlocked country in the South Caucasus region of Eurasia, bordered by Georgia, Azerbaijan, Iran, and Turkey. It has a population of around 2.9 million people and an area of 29,743 square kilometers.",
+        "description-city": "Yerevan is the capital and largest city of Armenia, located in the west of the country. It has a population of around 1.1 million people and is known for its pink volcanic rock buildings and Soviet-era architecture.",
+        "code": "AM",
+        "capital": "Yerevan"
+    },
+    "Netherlands Antilles": {
+        "description-country": "The Netherlands Antilles was a former Dutch colony in the Caribbean, consisting of several islands including Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, and Sint Maarten. It was dissolved in 2010, and its constituent islands became autonomous territories of the Netherlands.",
+        "description-city": "",
+        "code": "AN",
+        "capital": ""
+    },
+    "Angola": {
+        "description-country": "Angola is a country in southwestern Africa, bordered by Namibia, Zambia, the Democratic Republic of the Congo, and the Atlantic Ocean. It has a population of around 31.8 million people and an area of 1,246,700 square kilometers.",
+        "description-city": "Luanda is the capital and largest city of Angola, located in the northwest of the country. It has a population of around 8 million people and is known for its Portuguese colonial architecture and bustling markets.",
+        "code": "AO",
+        "capital": "Luanda"
+    },
+    "Antarctica": {
+        "description-country": "Antarctica is a continent located at the southernmost point of the Earth. It has no permanent residents and is governed by the Antarctic Treaty System, which mandates that the continent be used for peaceful purposes only.",
+        "description-city": "",
+        "code": "AQ",
+        "capital": ""
+    },
+    "Argentina": {
+        "description-country": "Argentina is a large country in South America, bordered by Chile, Bolivia, Paraguay, Brazil, Uruguay, and the Atlantic Ocean. It has a population of around 45.5 million people and an area of 2,780,400 square kilometers.",
+        "description-city": "Buenos Aires is the capital and largest city of Argentina, located in the east of the country. It has a population of around 3 million people and is known for its European-style architecture, tango dancing, and soccer culture.",
+        "code": "AR",
+        "capital": "Buenos Aires"
+    },
+    "American Samoa": {
+        "description-country": "American Samoa is an unincorporated territory of the United States located in the South Pacific Ocean. It consists of five main islands and two coral atolls, and has a population of around 55,000 people.",
+        "description-city": "",
+        "code": "AS",
+        "capital": "Pago Pago"
+    },
+    "Austria": {
+        "description-country": "Austria is a landlocked country in Central Europe known for its stunning alpine scenery, historic cities, and rich cultural heritage. The country has a population of around 8.9 million people and an area of 83,879 square kilometers.",
+        "description-city": "Vienna is the capital city of Austria and one of the most beautiful cities in Europe. It is known for its stunning architecture, rich cultural scene, and high quality of life. Vienna has a population of around 1.9 million people and an area of 414.65 square kilometers.",
+        "code": "AT",
+        "capital": "Vienna"
+    },
+    "Australia": {
+        "description-country": "Australia is a country and continent located in the southern hemisphere, known for its unique wildlife, stunning landscapes, and diverse culture. It is the world's sixth-largest country by area, with a population of around 25 million people.",
+        "description-city": "Sydney is the largest city in Australia and the state capital of New South Wales. It is known for its iconic landmarks such as the Sydney Opera House and Harbour Bridge, as well as its stunning beaches and vibrant cultural scene. Sydney has a population of around 5 million people and an area of 12,368 square kilometers.",
+        "code": "AU",
+        "capital": "Canberra"
+    },
+    "Aruba": {
+        "description-country": "Aruba is a small island country in the southern Caribbean, known for its stunning beaches, crystal-clear waters, and vibrant nightlife. It has a population of around 107,000 people and an area of 180 square kilometers.",
+        "description-city": "Oranjestad is the capital city of Aruba, located on the southern coast of the island. It is known for its stunning colonial architecture, lively harbor, and excellent shopping and dining options. Oranjestad has a population of around 35,000 people and an area of 35.9 square kilometers.",
+        "code": "AW",
+        "capital": "Oranjestad"
+    },
+    "Aland Islands": {
+        "description-country": "The Aland Islands are an archipelago in the Baltic Sea, located between Finland and Sweden. They have a population of around 30,000 people and a total area of 1,580 square kilometers.",
+        "description-city": null,
+        "code": "AX",
+        "capital": "Mariehamn"
+    },
+    "Azerbaijan": {
+        "description-country": "Azerbaijan is a country located at the crossroads of Eastern Europe and Western Asia, known for its rich history, stunning natural beauty, and diverse cultural heritage. It has a population of around 10 million people and an area of 86,600 square kilometers.",
+        "description-city": "Baku is the capital and largest city of Azerbaijan, located on the Caspian Sea. It is known for its stunning modern architecture, rich history, and vibrant cultural scene. Baku has a population of around 2.3 million people and an area of 2,140 square kilometers.",
+        "code": "AZ",
+        "capital": "Baku"
+    },
+    "Bosnia and Herzegovina": {
+        "description-country": "Bosnia and Herzegovina is a country located in Southeastern Europe, bordered by Croatia, Serbia, and Montenegro. It has a population of around 3.3 million people and an area of 51,209 square kilometers. The country is known for its stunning natural beauty, diverse cultural heritage, and rich history.",
+        "description-city": "Sarajevo is the capital and largest city of Bosnia and Herzegovina, located in the central part of the country. It has a population of around 300,000 people and is situated in a valley surrounded by the Dinaric Alps. The city is known for its mix of Ottoman, Austro-Hungarian, and modern architecture, as well as its rich cultural scene.",
+        "code": "BA",
+        "capital": "Sarajevo"
+    },
+    "Barbados": {
+        "description-country": "Barbados is an island country in the Lesser Antilles, located in the Caribbean Sea. It has a population of around 300,000 people and an area of 430 square kilometers. The country is known for its stunning beaches, vibrant culture, and delicious cuisine.",
+        "description-city": "Bridgetown is the capital and largest city of Barbados, located on the southwestern coast of the island. It has a population of around 110,000 people and is known for its historic colonial architecture, bustling markets, and vibrant nightlife.",
+        "code": "BB",
+        "capital": "Bridgetown"
+    },
+    "Belarus": {
+        "description-country": "Belarus is a landlocked country located in Eastern Europe, bordered by Russia, Ukraine, Poland, Lithuania, and Latvia. It has a population of around 9.4 million people and an area of 207,600 square kilometers. The country is known for its rich culture, diverse wildlife, and stunning natural landscapes.",
+        "description-city": "Minsk is the capital and largest city of Belarus, located in the central part of the country. It has a population of around 2 million people and is known for its vibrant arts and cultural scene, as well as its stunning architecture and beautiful parks.",
+        "code": "BY",
+        "capital": "Minsk"
+    },
+    "Belgium": {
+        "description-country": "Belgium is a country located in Western Europe, bordered by the Netherlands, Germany, Luxembourg, France, and the North Sea. It has a population of around 11.7 million people and an area of 30,528 square kilometers. The country is known for its delicious cuisine, stunning architecture, and rich history and culture.",
+        "description-city": "Brussels is the capital and largest city of Belgium, located in the central part of the country. It has a population of around 1.2 million people and is known for its stunning Gothic architecture, delicious chocolate and beer, and vibrant cultural scene.",
+        "code": "BE",
+        "capital": "Brussels"
+    },
+    "Belize": {
+        "description-country": "Belize is a small country located on the northeastern coast of Central America. It has a population of around 400,000 people and an area of 22,965 square kilometers. Belize is known for its barrier reef system, tropical climate, and diverse wildlife.",
+        "description-city": "Belmopan is the capital city of Belize, located in the central part of the country. It has a population of around 20,000 people and is known for its government buildings, parks, and markets.",
+        "code": "BZ",
+        "capital": "Belmopan"
+    },
+    "Canada": {
+        "description-country": "Canada is a North American country known for its natural beauty, diverse culture, and advanced economy. It has a population of around 38 million people and an area of 9.98 million square kilometers, making it the second-largest country in the world by land area.",
+        "description-city": "Ottawa is the capital city of Canada, located in the eastern part of the country. It has a population of around 1 million people and is known for its historic buildings, museums, and parks.",
+        "code": "CA",
+        "capital": "Ottawa"
+    },
+    "Cocos Islands": {
+        "description-country": "The Cocos Islands are a small group of islands located in the Indian Ocean, around 2,750 kilometers northwest of Perth, Australia. The islands have a population of around 600 people and are known for their natural beauty and unique wildlife.",
+        "description-city": null,
+        "code": "CC",
+        "capital": null
+    },
+    "Democratic Republic of the Congo": {
+        "description-country": "The Democratic Republic of the Congo is a country located in central Africa. It has a population of around 90 million people and an area of 2.3 million square kilometers, making it the second-largest country in Africa by land area. The country is known for its natural resources, including diamonds, gold, and copper.",
+        "description-city": "Kinshasa is the capital city of the Democratic Republic of the Congo, located in the western part of the country. It has a population of around 14 million people and is known for its markets, nightlife, and cultural attractions.",
+        "code": "CD",
+        "capital": "Kinshasa"
+    },
+    "Central African Republic": {
+        "description-country": "The Central African Republic is a landlocked country located in central Africa. It has a population of around 5 million people and an area of 622,436 square kilometers. The country is known for its natural resources, including diamonds, gold, and timber.",
+        "description-city": "Bangui is the capital city of the Central African Republic, located in the southwestern part of the country. It has a population of around 800,000 people and is known for its markets, museums, and cultural attractions.",
+        "code": "CF",
+        "capital": "Bangui"
+    },
+    "Republic of the Congo": {
+        "description-country": "The Republic of the Congo, also known as Congo-Brazzaville, is a country located in Central Africa. It has a population of around 5.2 million people and an area of 342,000 square kilometers. The country is known for its rainforests, wildlife, and oil reserves.",
+        "description-city": "Brazzaville is the capital city of the Republic of the Congo and is located in the south of the country. It has a population of around 2.4 million people and is known for its markets and the Congo River.",
+        "code": "CG",
+        "capital": "Brazzaville"
+    },
+    "Switzerland": {
+        "description-country": "Switzerland is a landlocked country located in Central Europe. It has a population of around 8.7 million people and an area of 41,290 square kilometers. Switzerland is known for its mountains, ski resorts, and chocolate, as well as its banking and finance industry.",
+        "description-city": "Bern is the capital city of Switzerland and is located in the west-central part of the country. It has a population of around 133,000 people and is known for its historic old town, the Berner Münster cathedral, and the Aare River.",
+        "code": "CH",
+        "capital": "Bern"
+    },
+    "Ivory Coast": {
+        "description-country": "Ivory Coast, also known as Côte d'Ivoire, is a country located in West Africa. It is known for its cocoa production and as the world's largest exporter of the commodity. Its population is around 26 million people and it has an area of 322,463 square kilometers.",
+        "description-city": "Abidjan is the largest city and former capital of Ivory Coast, located on the southern coast of the country. It is a major center of commerce, industry, and finance in West Africa, and is known for its nightlife and beaches.",
+        "code": "CI",
+        "capital": "Yamoussoukro"
+    },
+    "Cameroon": {
+        "description-country": "Cameroon is a country located in Central Africa, bordered by Nigeria, Chad, Central African Republic, Republic of the Congo, Gabon, and Equatorial Guinea. It is known for its diverse cultures, landscapes, and wildlife, including gorillas, elephants, and lions. Its population is around 27 million people and it has an area of 475,442 square kilometers.",
+        "description-city": "Yaoundé is the capital city of Cameroon, located in the southern part of the country. It is the second-largest city in the country after Douala, and is known for its museums, monuments, and parks.",
+        "code": "CM",
+        "capital": "Yaoundé"
+    },
+    "China": {
+        "description-country": "China is a country located in East Asia, known for its ancient history, culture, and landmarks such as the Great Wall of China and the Forbidden City. It is the most populous country in the world with over 1.4 billion people, and has an area of 9.6 million square kilometers.",
+        "description-city": "Beijing is the capital city of China, located in the north of the country. It is known for its historic sites such as the Forbidden City and the Temple of Heaven, as well as modern landmarks like the National Stadium and the National Centre for the Performing Arts.",
+        "code": "CN",
+        "capital": "Beijing"
+    },
+    "Colombia": {
+        "description-country": "Colombia is a country located in South America, known for its diverse culture, landscapes, and history. It is the second-most biodiverse country in the world, and is home to numerous indigenous communities and languages. Its population is around 50 million people and it has an area of 1.1 million square kilometers.",
+        "description-city": "Bogotá is the capital city of Colombia, located in the Andes Mountains in the central part of the country. It is a major cultural, political, and economic center of the country, and is known for its museums, theaters, and historic sites.",
+        "code": "CO",
+        "capital": "Bogotá"
+    },
+    "Costa Rica": {
+        "description-country": "Costa Rica is a small country in Central America known for its biodiversity, natural beauty, and eco-tourism. It has a population of around 5 million people and an area of 51,100 square kilometers.",
+        "description-city": "San Jose is the capital and largest city of Costa Rica, located in the center of the country. It has a population of around 1.5 million people and is known for its vibrant culture, historic buildings, and museums.",
+        "code": "CR",
+        "capital": "San Jose"
+    },
+    "Cuba": {
+        "description-country": "Cuba is an island country in the Caribbean known for its music, dance, and rich culture. It has a population of around 11 million people and an area of 109,884 square kilometers.",
+        "description-city": "Havana is the capital and largest city of Cuba, located on the northwestern coast of the island. It has a population of around 2 million people and is known for its colorful buildings, vintage cars, and lively music scene.",
+        "code": "CU",
+        "capital": "Havana"
+    },
+    "Cape Verde": {
+        "description-country": "Cape Verde is an island country in the Atlantic Ocean, off the coast of West Africa. It has a population of around 550,000 people and an area of 4,033 square kilometers.",
+        "description-city": "Praia is the capital and largest city of Cape Verde, located on the southern coast of the island of Santiago. It has a population of around 160,000 people and is known for its colorful buildings, lively markets, and beautiful beaches.",
+        "code": "CV",
+        "capital": "Praia"
+    },
+    "Curacao": {
+        "description-country": "Curacao is a small island country in the southern Caribbean Sea, just off the coast of Venezuela. It has a population of around 160,000 people and an area of 444 square kilometers.",
+        "description-city": "Willemstad is the capital and largest city of Curacao, located on the southern coast of the island. It has a population of around 150,000 people and is known for its colorful colonial architecture, museums, and beaches.",
+        "code": "CW",
+        "capital": "Willemstad"
+    },
+    "Christmas Island": {
+        "description-country": "Christmas Island is a small island territory of Australia located in the Indian Ocean, just south of Indonesia. It has a population of around 2,000 people and an area of 135 square kilometers.",
+        "description-city": "Flying Fish Cove is the capital and largest settlement on Christmas Island, located on the northeastern coast. It has a population of around 500 people and is known for its stunning coral reefs and unique wildlife.",
+        "code": "CX",
+        "capital": "Flying Fish Cove"
+    },
+    "Cyprus": {
+        "description-country": "Cyprus is an island country in the eastern Mediterranean, south of Turkey. It has a population of around 1.2 million people and an area of 9,251 square kilometers.",
+        "description-city": "Nicosia is the capital and largest city of Cyprus, located in the center of the island. It has a population of around 320,000 people and is known for its historic old town, museums, and restaurants.",
+        "code": "CY",
+        "capital": "Nicosia"
+    },
+    "Czechia": {
+        "description-country": "Czechia, also known as the Czech Republic, is a landlocked country in Central Europe. It has a population of around 10.7 million people and an area of 78,866 square kilometers. Prague is the capital and largest city of Czechia, known for its historic architecture, beer, and cultural events.",
+        "description-city": "Prague is the capital city of Czechia and its largest city, located in the northwest of the country. It has a population of around 1.3 million people and an area of 496 square kilometers. The city is known for its historic Old Town, Charles Bridge, and Prague Castle.",
+        "code": "CZ",
+        "capital": "Prague"
+    },
+    "Germany": {
+        "description-country": "Germany is a country in Central Europe, known for its rich history, culture, and economy. It has a population of around 83 million people and an area of 357,582 square kilometers. Berlin is the capital and largest city of Germany, known for its vibrant arts and culture scene.",
+        "description-city": "Berlin is the capital city of Germany and its largest city, located in the northeast of the country. It has a population of around 3.8 million people and an area of 891.8 square kilometers. The city is known for its vibrant arts and culture scene, historical landmarks, and diverse neighborhoods.",
+        "code": "DE",
+        "capital": "Berlin"
+    },
+    "Djibouti": {
+        "description-country": "Djibouti is a small country located in the Horn of Africa, bordered by Eritrea, Ethiopia, and Somalia. It has a population of around 1 million people and an area of 23,200 square kilometers. Djibouti City is the capital and largest city of Djibouti, known for its strategic location and port.",
+        "description-city": "Djibouti City is the capital and largest city of Djibouti, located on the Gulf of Tadjoura. It has a population of around 600,000 people and an area of 24 square kilometers. The city is known for its strategic location as a key port and trading center.",
+        "code": "DJ",
+        "capital": "Djibouti City"
+    },
+    "Denmark": {
+        "description-country": "Denmark is a country in Northern Europe, known for its rich history, culture, and welfare system. It has a population of around 5.8 million people and an area of 42,916 square kilometers. Copenhagen is the capital and largest city of Denmark, known for its vibrant culture, architecture, and bicycle-friendly streets.",
+        "description-city": "Copenhagen is the capital city of Denmark and its largest city, located on the eastern coast of the country. It has a population of around 800,000 people and an area of 88.25 square kilometers. The city is known for its vibrant culture, architecture, and bicycle-friendly streets.",
+        "code": "DK",
+        "capital": "Copenhagen"
+    },
+    "Dominica": {
+        "description-country": "Dominica is a mountainous Caribbean island nation with a population of around 73,000 people. Known as the 'Nature Isle of the Caribbean', Dominica is covered in rainforests, home to rare bird species and has numerous waterfalls, hiking trails, and hot springs. The capital city is Roseau.",
+        "description-city": "Roseau is the capital city of Dominica, located on the west coast of the island. It has a population of around 16,000 people and is known for its colorful buildings, Creole-style architecture, and vibrant markets. The city is also home to the Dominica Botanic Gardens and the Dominica Museum.",
+        "code": "DM",
+        "capital": "Roseau"
+    },
+    "Algeria": {
+        "description-country": "Algeria is the largest country in Africa and the 10th largest country in the world, with a population of around 44 million people. It is located in North Africa and is bordered by the Mediterranean Sea to the north, Tunisia to the northeast, Libya to the east, Niger to the southeast, Mali to the southwest, Western Sahara and Morocco to the west.",
+        "description-city": "Algiers is the capital city of Algeria, located on the Mediterranean coast in the north-central part of the country. It has a population of over 3 million people and is known for its whitewashed buildings, historic casbah, and stunning sea views. The city is also home to the National Museum of Fine Arts and the Jardin d'Essai du Hamma botanical garden.",
+        "code": "DZ",
+        "capital": "Algiers"
+    },
+    "Ecuador": {
+        "description-country": "Ecuador is a South American country known for its rich biodiversity, diverse landscape, and ancient culture. It is located on the equator and is bordered by Colombia to the north, Peru to the east and south, and the Pacific Ocean to the west. Ecuador has a population of around 17 million people.",
+        "description-city": "Quito is the capital city of Ecuador, located in the Andes mountains in the north-central part of the country. It has a population of over 2 million people and is known for its historic center, which is a UNESCO World Heritage Site. The city is also home to many museums and art galleries, including the Casa del Alabado and the Museo Nacional del Ecuador.",
+        "code": "EC",
+        "capital": "Quito"
+    },
+    "Estonia": {
+        "description-country": "Estonia is a small country in Northern Europe with a population of around 1.3 million people. It is known for its beautiful forests, beaches, and lakes, as well as its progressive policies on digital technology. Estonia is bordered by Russia to the east and Latvia to the south.",
+        "description-city": "Tallinn is the capital city of Estonia, located on the north coast of the country. It has a population of around 437,000 people and is known for its well-preserved medieval old town, which is a UNESCO World Heritage Site. The city is also home to the Kumu Art Museum and the Kadriorg Palace.",
+        "code": "EE",
+        "capital": "Tallinn"
+    },
+    "Egypt": {
+        "description-country": "Egypt is a country located in the northeastern corner of Africa, with a small part of its territory extending into Asia through the Sinai Peninsula. It is known for its ancient civilization, including the iconic pyramids and temples along the Nile River. Egypt has a population of around 100 million people and an area of 1,010,000 square kilometers.",
+        "description-city": "Cairo is the capital city of Egypt, located in the north of the country along the Nile River. It is one of the largest cities in Africa, with a population of around 20 million people. Cairo is known for its ancient landmarks, including the Pyramids of Giza and the Sphinx, as well as its vibrant modern culture.",
+        "code": "EG",
+        "capital": "Cairo"
+    },
+    "Western Sahara": {
+        "description-country": "Western Sahara is a disputed territory located in the western part of the Sahara desert, bordered by Morocco to the north, Algeria to the northeast, Mauritania to the east and south, and the Atlantic Ocean to the west. It has a population of around 600,000 people and an area of 266,000 square kilometers.",
+        "description-city": "",
+        "code": "EH",
+        "capital": "El Aaiún"
+    },
+    "Eritrea": {
+        "description-country": "Eritrea is a country located in the northeastern part of Africa, bordered by Sudan to the west, Ethiopia to the south, and Djibouti to the southeast. It has a population of around 5 million people and an area of 117,600 square kilometers.",
+        "description-city": "Asmara is the capital city of Eritrea, located in the central highlands of the country. It is known for its Art Deco architecture and Italian colonial heritage, as well as its vibrant cultural scene.",
+        "code": "ER",
+        "capital": "Asmara"
+    },
+    "Spain": {
+        "description-country": "Spain is a country located in southwestern Europe, bordered by Portugal to the west, France to the northeast, and the Mediterranean Sea to the south and east. It is known for its rich history and cultural heritage, including its world-renowned art, architecture, and cuisine. Spain has a population of around 47 million people and an area of 505,990 square kilometers.",
+        "description-city": "Madrid is the capital city of Spain, located in the center of the country. It is known for its art, culture, and nightlife, as well as its historic landmarks, including the Royal Palace and the Prado Museum.",
+        "code": "ES",
+        "capital": "Madrid"
+    },
+    "Ethiopia": {
+        "description-country": "Ethiopia is a country located in the northeastern part of Africa, bordered by Eritrea to the north, Djibouti and Somalia to the east, Kenya to the south, and Sudan and South Sudan to the west. It is known for its ancient civilization, diverse culture, and stunning natural beauty, including the Simien Mountains and the Blue Nile Falls. Ethiopia has a population of around 117 million people and an area of 1,104,300 square kilometers.",
+        "description-city": "Addis Ababa is the capital city of Ethiopia, located in the central highlands of the country. It is known for its vibrant cultural scene, including its music, art, and cuisine, as well as its historic landmarks, including the National Museum and the Holy Trinity Cathedral.",
+        "code": "ET",
+        "capital": "Addis Ababa"
+    },
+    "Bangladesh": {
+        "description-country": "Bangladesh is a country in South Asia, known for its lush greenery and scenic beauty. It has a rich history and culture, and is home to many important landmarks and monuments.",
+        "description-city": "Dhaka is the capital city of Bangladesh, known for its vibrant culture and bustling streets. It is home to many important government buildings, museums, and markets.",
+        "code": "BD",
+        "capital": "Dhaka"
+    },
+    "Barbados": {
+        "description-country": "Barbados is a small island country in the Caribbean, known for its beautiful beaches and laid-back lifestyle. It has a rich cultural heritage and is home to many festivals and events throughout the year.",
+        "description-city": "Bridgetown is the capital city of Barbados, known for its historic architecture and colorful buildings. It is home to many important landmarks, such as the Parliament Buildings and the National Heroes Square.",
+        "code": "BB",
+        "capital": "Bridgetown"
+    },
+    "Belarus": {
+        "description-country": "Belarus is a country in Eastern Europe, known for its stunning natural beauty and rich history. It has a diverse culture and is home to many important landmarks and monuments.",
+        "description-city": "Minsk is the capital city of Belarus, known for its impressive architecture and vibrant culture. It is home to many important government buildings, museums, and theaters.",
+        "code": "BY",
+        "capital": "Minsk"
+    },
+    "Belgium": {
+        "description-country": "Belgium is a small country in Western Europe, known for its picturesque towns and beautiful landscapes. It has a rich history and culture, and is home to many important landmarks and monuments.",
+        "description-city": "Brussels is the capital city of Belgium, known for its stunning architecture and vibrant culture. It is home to many important government buildings, museums, and galleries.",
+        "code": "BE",
+        "capital": "Brussels"
+    },
+    "Belize": {
+        "description-country": "Belize is a small country in Central America, known for its stunning natural beauty and rich cultural heritage. It is home to many important landmarks and monuments, as well as a diverse range of flora and fauna.",
+        "description-city": "Belmopan is the capital city of Belize, known for its peaceful and laid-back lifestyle. It is home to many important government buildings and institutions.",
+        "code": "BZ",
+        "capital": "Belmopan"
+    },
+    "Burkina Faso": {
+        "description-country": "Burkina Faso is a landlocked country in West Africa known for its rich cultural heritage and vibrant music and dance traditions. It has a diverse landscape ranging from the Sahel to the Sudanian savanna and is home to many species of wildlife, including elephants, lions, and hippos.",
+        "description-city": "Ouagadougou is the capital city of Burkina Faso and is known for its lively markets, colorful architecture, and vibrant cultural scene. It is also home to many museums and cultural institutions that showcase the country's history and heritage.",
+        "code": "BF",
+        "capital": "Ouagadougou"
+    },
+    "Burundi": {
+        "description-country": "Burundi is a small country located in the heart of Africa that is known for its beautiful scenery, including mountains, lakes, and national parks. It is also home to a rich cultural heritage that includes traditional dance, music, and art.",
+        "description-city": "Bujumbura is the capital city of Burundi and is located on the shores of Lake Tanganyika, one of the deepest lakes in the world. It is known for its beautiful beaches, bustling markets, and lively nightlife.",
+        "code": "BI",
+        "capital": "Bujumbura"
+    },
+    "Cambodia": {
+        "description-country": "Cambodia is a country located in Southeast Asia known for its ancient temples, beautiful beaches, and lush rainforests. It has a rich cultural heritage that includes traditional dance, music, and art.",
+        "description-city": "Phnom Penh is the capital city of Cambodia and is known for its stunning architecture, bustling markets, and vibrant cultural scene. It is also home to many museums and cultural institutions that showcase the country's history and heritage.",
+        "code": "KH",
+        "capital": "Phnom Penh"
+    },
+    "Iraq": {
+        "description-country": "Iraq is a country located in Western Asia. It is home to ancient Mesopotamia, the 'cradle of civilization,' and has a rich cultural heritage. Iraq has a diverse population with various ethnic and religious groups. It is known for its oil reserves and historical landmarks such as the city of Babylon.",
+        "description-city": "Baghdad is the capital and largest city of Iraq. It is one of the oldest cities in the world, with a history dating back to the 8th century. It is known for its museums, mosques, and historical landmarks such as the Al-Mustansiriya University and the Al-Mutanabbi Street.",
+        "code": "IQ",
+        "capital": "Baghdad"
+    },
+    "Iran": {
+        "description-country": "Iran is a country located in Western Asia. It is known for its rich history, culture, and literature. Iran has a diverse population with various ethnic and religious groups. It is also known for its natural resources, particularly its oil and gas reserves.",
+        "description-city": "Tehran is the capital and largest city of Iran. It is home to many historical landmarks, museums, and parks. It is also known for its bustling markets and lively arts scene.",
+        "code": "IR",
+        "capital": "Tehran"
+    },
+    "Iceland": {
+        "description-country": "Iceland is an island country located in the North Atlantic. It is known for its stunning natural beauty, including glaciers, geysers, and hot springs. Iceland has a small population and a unique culture that is heavily influenced by its Viking heritage.",
+        "description-city": "Reykjavik is the capital and largest city of Iceland. It is known for its colorful houses, lively nightlife, and cultural landmarks such as the Hallgrimskirkja church and the Harpa concert hall.",
+        "code": "IS",
+        "capital": "Reykjavik"
+    },
+    "Italy": {
+        "description-country": "Italy is a country located in Southern Europe. It is known for its rich history, culture, art, and cuisine. Italy has a diverse population with various ethnic and regional groups. It is also home to many historical landmarks, including the Colosseum, the Leaning Tower of Pisa, and the Vatican City.",
+        "description-city": "Rome is the capital and largest city of Italy. It is known for its ancient ruins, museums, art galleries, and restaurants. Rome is also home to the Vatican City, the headquarters of the Roman Catholic Church.",
+        "code": "IT",
+        "capital": "Rome"
+    },
+    "Jersey": {
+        "description-country": "Jersey is a British Crown Dependency located in the English Channel. It is known for its stunning natural beauty, including beaches, cliffs, and coastal paths. Jersey has a unique culture that is heavily influenced by its Norman heritage.",
+        "description-city": "St. Helier is the capital and largest city of Jersey. It is known for its historic landmarks, museums, and restaurants. St. Helier is also home to the Royal Court of Jersey, the island's main court of law.",
+        "code": "JE",
+        "capital": "St. Helier"
+    },
+    "Jamaica": {
+        "description-country": "Jamaica is an island country located in the Caribbean Sea. It is known for its stunning natural beauty, including beaches, waterfalls, and mountains. Jamaica has a unique culture that is heavily influenced by its African heritage.",
+        "description-city": "Kingston is the capital and largest city of Jamaica. It is known for its vibrant music scene, historic landmarks, and cultural festivals such as Carnival.",
+        "code": "JM",
+        "capital": "Kingston"
+    },
+    "Jordan": {
+        "description-country": "Jordan is a country in the Middle East known for its ancient monuments, nature reserves, and seaside resorts.",
+        "description-city": "Amman is the capital and largest city of Jordan. It is known for its ancient Roman ruins, citadel, and modern art galleries.",
+        "code": "JO",
+        "capital": "Amman"
+    },
+    "Japan": {
+        "description-country": "Japan is an island nation in East Asia known for its unique culture, advanced technology, and beautiful landscapes.",
+        "description-city": "Tokyo is the capital and largest city of Japan. It is known for its skyscrapers, vibrant street life, and historic temples.",
+        "code": "JP",
+        "capital": "Tokyo"
+    },
+    "Kenya": {
+        "description-country": "Kenya is a country in East Africa known for its wildlife reserves, national parks, and scenic landscapes.",
+        "description-city": "Nairobi is the capital and largest city of Kenya. It is known for its urban wildlife, museums, and cultural attractions.",
+        "code": "KE",
+        "capital": "Nairobi"
+    },
+    "Kyrgyzstan": {
+        "description-country": "Kyrgyzstan is a mountainous country in Central Asia known for its beautiful scenery, nomadic traditions, and ancient history.",
+        "description-city": "Bishkek is the capital and largest city of Kyrgyzstan. It is known for its Soviet-era architecture, parks, and museums.",
+        "code": "KG",
+        "capital": "Bishkek"
+    },
+    "Cambodia": {
+        "description-country": "Cambodia is a country in Southeast Asia known for its ancient temples, tropical forests, and bustling cities.",
+        "description-city": "Phnom Penh is the capital and largest city of Cambodia. It is known for its French colonial architecture, temples, and museums.",
+        "code": "KH",
+        "capital": "Phnom Penh"
+    },
+    "Kiribati": {
+        "description-country": "Kiribati is a remote island nation in the Pacific Ocean known for its coral atolls, turquoise waters, and rich marine life.",
+        "description-city": "South Tarawa is the capital and largest city of Kiribati. It is known for its lively markets, local crafts, and cultural festivals.",
+        "code": "KI",
+        "capital": "South Tarawa"
+    },
+    "Comoros": {
+        "description-country": "Comoros is a volcanic archipelago located in the Indian Ocean off the eastern coast of Africa.",
+        "description-city": "Moroni is the largest city and the capital of Comoros. It is located on the western coast of Grande Comore, the largest island in the archipelago.",
+        "code": "KM",
+        "capital": "Moroni"
+    },
+    "Saint Kitts and Nevis": {
+        "description-country": "Saint Kitts and Nevis is a small island country located in the Caribbean Sea. It is known for its beautiful beaches and scenic landscapes.",
+        "description-city": "Basseterre is the capital city of Saint Kitts and Nevis. It is located on the island of Saint Kitts and is known for its colonial architecture.",
+        "code": "KN",
+        "capital": "Basseterre"
+    },
+    "North Korea": {
+        "description-country": "North Korea is a country located in East Asia. It is known for its closed and secretive society and its nuclear weapons program.",
+        "description-city": "Pyongyang is the capital and largest city of North Korea. It is known for its grand monuments and socialist architecture.",
+        "code": "KP",
+        "capital": "Pyongyang"
+    },
+    "South Korea": {
+        "description-country": "South Korea is a country located in East Asia. It is known for its advanced technology and modern society.",
+        "description-city": "Seoul is the capital and largest city of South Korea. It is known for its high-rise buildings, street markets, and ancient temples.",
+        "code": "KR",
+        "capital": "Seoul"
+    },
+    "Kuwait": {
+        "description-country": "Kuwait is a small oil-rich country located in the Middle East. It is known for its modern architecture and luxury shopping.",
+        "description-city": "Kuwait City is the capital and largest city of Kuwait. It is known for its skyscrapers, beaches, and cultural attractions.",
+        "code": "KW",
+        "capital": "Kuwait City"
+    },
+    "Cayman Islands": {
+        "description-country": "The Cayman Islands are a British Overseas Territory located in the western Caribbean Sea. They are known for their crystal-clear waters and diverse marine life.",
+        "description-city": "George Town is the capital and largest city of the Cayman Islands. It is known for its colorful architecture and duty-free shopping.",
+        "code": "KY",
+        "capital": "George Town"
+    },
+    "Kazakhstan": {
+        "description-country": "Kazakhstan is the world's largest landlocked country, and the ninth largest in the world. It shares borders with Russia, China, Kyrgyzstan, Uzbekistan, and Turkmenistan.",
+        "description-city": "Nur-Sultan, formerly known as Astana, is the capital city of Kazakhstan. It is located in the northern part of the country, and has a population of over one million people.",
+        "code": "KZ",
+        "capital": "Nur-Sultan"
+    },
+    "Laos": {
+        "description-country": "Laos is a landlocked country in Southeast Asia, bordered by Myanmar, China, Vietnam, Cambodia, and Thailand. It is known for its mountainous terrain, Buddhist monasteries, and French colonial architecture.",
+        "description-city": "Vientiane is the capital and largest city of Laos. It is located in the south-central part of the country, near the border with Thailand, and has a population of around 820,000 people.",
+        "code": "LA",
+        "capital": "Vientiane"
+    },
+    "Lebanon": {
+        "description-country": "Lebanon is a small, mountainous country located in the Middle East, bordered by Syria to the north and east, and Israel to the south. It is known for its rich history, diverse culture, and Mediterranean cuisine.",
+        "description-city": "Beirut is the capital and largest city of Lebanon. It is located on the country's Mediterranean coast, and has a population of over 2 million people.",
+        "code": "LB",
+        "capital": "Beirut"
+    },
+    "Saint Lucia": {
+        "description-country": "Saint Lucia is a small island country in the eastern Caribbean Sea. It is known for its beautiful beaches, lush rainforests, and luxury resorts.",
+        "description-city": "Castries is the capital and largest city of Saint Lucia. It is located in the northwestern part of the island, and has a population of around 70,000 people.",
+        "code": "LC",
+        "capital": "Castries"
+    },
+    "Liechtenstein": {
+        "description-country": "Liechtenstein is a small, mountainous country located in Central Europe, bordered by Switzerland to the west and south, and Austria to the east. It is known for its alpine scenery, low taxes, and high standard of living.",
+        "description-city": "Vaduz is the capital and largest city of Liechtenstein. It is located in the central part of the country, and has a population of around 5,500 people.",
+        "code": "LI",
+        "capital": "Vaduz"
+    },
+    "Sri Lanka": {
+        "description-country": "Sri Lanka is an island country located in the Indian Ocean, off the southern coast of India. It is known for its rich history, diverse culture, and stunning natural beauty.",
+        "description-city": "Sri Jayawardenepura Kotte is the official capital of Sri Lanka, but the largest city and commercial capital is Colombo. Colombo is located on the country's west coast, and has a population of around 5 million people.",
+        "code": "LK",
+        "capital": "Sri Jayawardenepura Kotte"
+    },
+    "Bulgaria": {
+        "description-country": "Bulgaria is a country located in Southeast Europe, bordered by Romania to the north, Serbia and North Macedonia to the west, Greece and Turkey to the south, and the Black Sea to the east. It is known for its rich history and cultural heritage, beautiful mountains, and picturesque beaches along the Black Sea coast.",
+        "description-city": "Sofia is the capital and largest city of Bulgaria, located in the western part of the country at the foot of the Vitosha mountain. It has a population of around 1.3 million people.",
+        "code": "BG",
+        "capital": "Sofia"
+    },
+    "Bahrain": {
+        "description-country": "Bahrain is a small island country located in the Persian Gulf, east of Saudi Arabia. It is known for its modern infrastructure, booming economy, and vibrant culture.",
+        "description-city": "Manama is the capital and largest city of Bahrain, located on the northeastern tip of the main island. It has a population of around 157,000 people.",
+        "code": "BH",
+        "capital": "Manama"
+    },
+    "Benin": {
+        "description-country": "Benin is a country located in West Africa, bordered by Togo to the west, Nigeria to the east, and Burkina Faso and Niger to the north. It is known for its rich cultural heritage and diverse wildlife.",
+        "description-city": "Porto-Novo is the capital and second largest city of Benin, located in the southeastern part of the country on the Gulf of Guinea. It has a population of around 267,000 people.",
+        "code": "BJ",
+        "capital": "Porto-Novo"
+    },
+    "Saint Barthelemy": {
+        "description-country": "Saint Barthélemy, also known as St. Barts, is a small island located in the Caribbean Sea. It is known for its beautiful beaches, luxury resorts, and upscale restaurants and shops.",
+        "description-city": "Gustavia is the capital and largest city of Saint Barthélemy, located on the western side of the island. It has a population of around 2,000 people.",
+        "code": "BL",
+        "capital": "Gustavia"
+    },
+    "Bermuda": {
+        "description-country": "Bermuda is a British Overseas Territory located in the North Atlantic Ocean, east of North Carolina in the United States. It is known for its pink sand beaches, crystal clear waters, and vibrant marine life.",
+        "description-city": "Hamilton is the capital and largest city of Bermuda, located on the main island. It has a population of around 1,000 people.",
+        "code": "BM",
+        "capital": "Hamilton"
+    },
+    "Brunei": {
+        "description-country": "Brunei is a small sovereign state located on the island of Borneo in Southeast Asia. It is known for its lush rainforests, pristine beaches, and unique culture.",
+        "description-city": "Bandar Seri Begawan is the capital and largest city of Brunei, located on the north coast of the island. It has a population of around 100,000 people.",
+        "code": "BN",
+        "capital": "Bandar Seri Begawan"
+    },
+    "Bolivia": {
+        "description-country": "Bolivia is a country located in the heart of South America. It is known for its diverse geography, including the Andes mountains, the Amazon rainforest, and the salt flats of Uyuni.",
+        "description-city": "La Paz is the administrative capital of Bolivia, while Sucre is the constitutional capital. La Paz is the highest administrative capital in the world, located in the Andes mountains at an elevation of over 3,600 meters.",
+        "code": "BO",
+        "capital": "La Paz"
+    },
+    "Bonaire Saint Eustatius and Saba": {
+        "description-country": "Bonaire, Saint Eustatius, and Saba are three islands located in the Caribbean Sea. They are part of the Netherlands, and are collectively known as the Caribbean Netherlands.",
+        "description-city": "The administrative centers of Bonaire, Saint Eustatius, and Saba are Kralendijk, Oranjestad, and The Bottom, respectively. Each island has its own unique culture and attractions, including coral reefs, historic sites, and national parks.",
+        "code": "BQ",
+        "capital": "Kralendijk"
+    },
+    "Bolivia": {
+        "description-country": "Bolivia is a country located in the heart of South America. It is known for its diverse geography, including the Andes mountains, the Amazon rainforest, and the salt flats of Uyuni.",
+        "description-city": "La Paz is the administrative capital of Bolivia, while Sucre is the constitutional capital. La Paz is the highest administrative capital in the world, located in the Andes mountains at an elevation of over 3,600 meters.",
+        "code": "BO",
+        "capital": "La Paz"
+    },
+    "Bonaire Saint Eustatius and Saba": {
+        "description-country": "Bonaire, Saint Eustatius, and Saba are three islands located in the Caribbean Sea. They are part of the Netherlands, and are collectively known as the Caribbean Netherlands.",
+        "description-city": "The administrative centers of Bonaire, Saint Eustatius, and Saba are Kralendijk, Oranjestad, and The Bottom, respectively. Each island has its own unique culture and attractions, including coral reefs, historic sites, and national parks.",
+        "code": "BQ",
+        "capital": "Kralendijk"
+    },
+    "Brazil": {
+        "description-country": "Brazil is the largest country in South America, known for its vibrant culture, diverse landscapes, and natural wonders such as the Amazon rainforest and the Iguazu Falls.",
+        "description-city": "Brasilia is the capital city of Brazil, located in the central region of the country. Other major cities include Rio de Janeiro, São Paulo, and Salvador, each with their own unique history and attractions.",
+        "code": "BR",
+        "capital": "Brasilia"
+    },
+    "Bahamas": {
+        "description-country": "The Bahamas is a country made up of more than 700 islands located in the Atlantic Ocean, northeast of Cuba. It is known for its crystal-clear waters, sandy beaches, and vibrant culture.",
+        "description-city": "Nassau is the capital and largest city of the Bahamas. It is located on the island of New Providence, and is home to many historic sites and cultural attractions.",
+        "code": "BS",
+        "capital": "Nassau"
+    },
+    "Bhutan": {
+        "description-country": "Bhutan is a small country located in the Himalayas, known for its stunning scenery, rich culture, and commitment to preserving its natural environment.",
+        "description-city": "Thimphu is the capital and largest city of Bhutan. It is located in the western part of the country, and is home to many cultural and historic sites, including the Tashichho Dzong fortress and the National Memorial Chorten.",
+        "code": "BT",
+        "capital": "Thimphu"
+    },
+    "Bouvet Island": {
+        "description-country": "Bouvet Island is an uninhabited subantarctic island located in the South Atlantic Ocean. It is one of the most remote islands in the world, and is covered by glaciers and ice caps.",
+        "description-city": "",
+        "code": "BV",
+        "capital": ""
+    },
+    "Botswana": {
+        "description-country": "Botswana is a landlocked country in Southern Africa, known for its wildlife, natural beauty, and stable economy. It is home to the world-famous Okavango Delta and the Kalahari Desert.",
+        "description-city": "Gaborone is the capital and largest city of Botswana, with a population of over 230,000 people. It is located in the southeastern part of the country, near the South African border.",
+        "code": "BW",
+        "capital": "Gaborone"
+    },
+    "Cook Islands": {
+        "description-country": "The Cook Islands is a self-governing territory in the South Pacific, consisting of 15 small islands known for their natural beauty, turquoise lagoons, and coral reefs.",
+        "description-city": "Avarua is the capital and largest town of the Cook Islands, located on the island of Rarotonga. It has a population of around 5,000 people.",
+        "code": "CK",
+        "capital": "Avarua"
+    },
+    "Chile": {
+        "description-country": "Chile is a long, narrow country stretching along the western coast of South America, known for its stunning landscapes, from the Atacama Desert in the north to the glaciers of Patagonia in the south.",
+        "description-city": "Santiago is the capital and largest city of Chile, located in the central valley of the country. It has a population of over 7 million people.",
+        "code": "CL",
+        "capital": "Santiago"
+    },
+    "Serbia and Montenegro": {
+        "description-country": "Serbia and Montenegro was a country in southeastern Europe that existed from 2003 to 2006, when it split into two separate countries: Serbia and Montenegro.",
+        "description-city": "Belgrade was the capital of Serbia and Montenegro, and is now the capital of Serbia. It is located at the confluence of the Sava and Danube rivers, and has a population of over 1.2 million people.",
+        "code": "CS",
+        "capital": "Belgrade"
+    },
+    "Dominican Republic": {
+        "description-country": "The Dominican Republic is a Caribbean nation known for its beaches, resorts, and vibrant culture. It shares the island of Hispaniola with Haiti.",
+        "description-city": "Santo Domingo is the capital and largest city of the Dominican Republic, located on the south coast of the country. It has a population of over 2.9 million people.",
+        "code": "DO",
+        "capital": "Santo Domingo"
+    },
+    "Finland": {
+        "description-country": "Finland is a northern European country known for its lakes, forests, and snow-covered landscapes. It is one of the most peaceful and prosperous countries in the world.",
+        "description-city": "Helsinki is the capital and largest city of Finland, located on the southern coast of the country. It has a population of over 650,000 people.",
+        "code": "FI",
+        "capital": "Helsinki"
+    },
+    "Fiji": {
+        "description-country": "Fiji is an island country located in the South Pacific Ocean. It is known for its beautiful beaches, crystal-clear waters, and friendly locals.",
+        "description-city": "Suva is the capital city of Fiji, located on the island of Viti Levu. It is the largest city in Fiji, and is known for its bustling markets, colonial architecture, and cultural diversity.",
+        "code": "FJ",
+        "capital": "Suva"
+    },
+    "Falkland Islands": {
+        "description-country": "The Falkland Islands is a British Overseas Territory located in the South Atlantic Ocean. It is known for its rugged terrain, unique wildlife, and history of conflict.",
+        "description-city": "Stanley is the capital and largest city of the Falkland Islands. It is located on the east coast of the island of East Falkland, and has a population of around 2,500 people.",
+        "code": "FK",
+        "capital": "Stanley"
+    },
+    "Micronesia": {
+        "description-country": "Micronesia is a country located in the western Pacific Ocean. It is made up of four island states: Yap, Chuuk, Pohnpei, and Kosrae. It is known for its beautiful beaches, crystal-clear waters, and rich culture.",
+        "description-city": "Palikir is the capital city of Micronesia, located on the island of Pohnpei. It is the largest city in Micronesia, and is known for its lush forests, historic ruins, and stunning waterfalls.",
+        "code": "FM",
+        "capital": "Palikir"
+    },
+    "Faroe Islands": {
+        "description-country": "The Faroe Islands is a self-governing territory of Denmark, located in the North Atlantic Ocean. It is known for its rugged coastline, dramatic cliffs, and unique culture.",
+        "description-city": "Tórshavn is the capital and largest city of the Faroe Islands. It is located on the east coast of the island of Streymoy, and has a population of around 20,000 people.",
+        "code": "FO",
+        "capital": "Tórshavn"
+    },
+    "France": {
+        "description-country": "France is a country located in Western Europe. It is known for its rich history, culture, cuisine, and wine.",
+        "description-city": "Paris is the capital and largest city of France. It is located in the north-central part of the country, and has a population of around 2.1 million people.",
+        "code": "FR",
+        "capital": "Paris"
+    },
+    "Gabon": {
+        "description-country": "Gabon is a country located in Central Africa. It is known for its vast rainforests, diverse wildlife, and rich culture.",
+        "description-city": "Libreville is the capital and largest city of Gabon. It is located on the country's west coast, and has a population of around 800,000 people.",
+        "code": "GA",
+        "capital": "Libreville"
+    },
+    "United Kingdom": {
+        "description-country": "The United Kingdom is a country located in Europe, comprising of England, Scotland, Wales, and Northern Ireland. It is known for its rich history, vibrant culture, and stunning landscapes.",
+        "description-city": "London is the capital and largest city of the United Kingdom. It is located in the southeast of England, and has a population of around 8.9 million people.",
+        "code": "GB",
+        "capital": "London"
+    },
+    "Grenada": {
+        "description-country": "Grenada is an island country located in the Caribbean Sea, consisting of the island of Grenada and several smaller islands. It is known for its beautiful beaches, lush rainforests, and friendly people.",
+        "description-city": "St. George's is the capital and largest city of Grenada. It is located on the island of Grenada, and has a population of around 33,000 people.",
+        "code": "GD",
+        "capital": "St. George's"
+    },
+    "Georgia": {
+        "description-country": "Georgia is a country located in the Caucasus region of Eurasia, bordering Russia to the north and Turkey to the south. It is known for its rich history, diverse culture, and stunning mountain landscapes.",
+        "description-city": "Tbilisi is the capital and largest city of Georgia. It is located in the eastern part of the country, and has a population of around 1.1 million people.",
+        "code": "GE",
+        "capital": "Tbilisi"
+    },
+    "French Guiana": {
+        "description-country": "French Guiana is an overseas department of France located in South America, bordering Brazil to the east and south, Suriname to the west, and the Atlantic Ocean to the north. It is known for its lush rainforests, diverse wildlife, and European influences.",
+        "description-city": "Cayenne is the capital and largest city of French Guiana. It is located on the northern coast of the country, and has a population of around 57,000 people.",
+        "code": "GF",
+        "capital": "Cayenne"
+    },
+    "Guernsey": {
+        "description-country": "Guernsey is a British Crown dependency located in the English Channel, off the coast of Normandy. It is known for its stunning coastline, charming villages, and relaxed way of life.",
+        "description-city": "St. Peter Port is the capital and largest city of Guernsey. It is located on the eastern coast of the island, and has a population of around 18,000 people.",
+        "code": "GG",
+        "capital": "St. Peter Port"
+    },
+    "Ghana": {
+        "description-country": "Ghana is a country located in West Africa, bordering Côte d'Ivoire to the west, Burkina Faso to the north, Togo to the east, and the Gulf of Guinea to the south. It is known for its rich history, vibrant culture, and stunning natural beauty.",
+        "description-city": "Accra is the capital and largest city of Ghana. It is located on the country's southern coast, and has a population of around 2.3 million people.",
+        "code": "GH",
+        "capital": "Accra"
+    },
+    "Gibraltar": {
+        "description-country": "Gibraltar is a British Overseas Territory located on the southern coast of Spain. It is known for its towering limestone cliffs, bustling port, and historical significance as a strategic naval base.",
+        "description-city": "The capital and largest city of Gibraltar is also called Gibraltar. It is a densely populated city located on the western side of the territory, and is home to most of Gibraltar's attractions, such as the Rock of Gibraltar and St. Michael's Cave.",
+        "code": "GI",
+        "capital": "Gibraltar"
+    },
+    "Greenland": {
+        "description-country": "Greenland is an autonomous territory within the Kingdom of Denmark, located between the Arctic and Atlantic Oceans. It is known for its pristine natural beauty, including glaciers, icebergs, and wildlife such as polar bears and whales.",
+        "description-city": "Nuuk is the capital and largest city of Greenland, with a population of around 17,000 people. It is located on the southwestern coast of the island, and is the country's cultural and economic center.",
+        "code": "GL",
+        "capital": "Nuuk"
+    },
+    "Gambia": {
+        "description-country": "The Gambia is a small West African country known for its beautiful beaches, vibrant culture, and diverse wildlife, including monkeys, hippos, and crocodiles. It is the smallest country on the African mainland, and is surrounded on three sides by Senegal.",
+        "description-city": "Banjul is the capital and largest city of The Gambia, with a population of around 31,000 people. It is located on the coast of the Atlantic Ocean, and is the country's commercial and administrative center.",
+        "code": "GM",
+        "capital": "Banjul"
+    },
+    "Guinea": {
+        "description-country": "Guinea is a country located in West Africa, bordered by Guinea-Bissau, Senegal, Mali, Ivory Coast, Liberia, and Sierra Leone. It is known for its rich culture, diverse geography, and natural resources such as gold and diamonds.",
+        "description-city": "Conakry is the capital and largest city of Guinea, with a population of over 2 million people. It is located on the Atlantic coast of the country, and is the country's economic, political, and cultural center.",
+        "code": "GN",
+        "capital": "Conakry"
+    },
+    "Guadeloupe": {
+        "description-country": "Guadeloupe is an overseas department of France located in the Caribbean Sea, just south of Antigua and Barbuda. It is known for its beautiful beaches, tropical climate, and French Creole culture.",
+        "description-city": "Basse-Terre is the capital and largest city of Guadeloupe, located on the western side of the island of Basse-Terre. It is known for its historic architecture, botanical gardens, and nearby natural attractions such as La Soufriere volcano and the Carbet Falls.",
+        "code": "GP",
+        "capital": "Basse-Terre"
+    },
+    "Equatorial Guinea": {
+        "description-country": "Equatorial Guinea is a small country located in Central Africa, bordered by Cameroon to the north and Gabon to the south and east. The country is known for its rich biodiversity, with tropical rainforests, mangroves, and savannas covering much of its land area.",
+        "description-city": "Malabo is the capital city of Equatorial Guinea, located on the northern coast of Bioko Island. The city is known for its Spanish colonial architecture, beautiful beaches, and vibrant nightlife.",
+        "code": "GQ",
+        "capital": "Malabo"
+    },
+    "Greece": {
+        "description-country": "Greece is a country located in Southeast Europe, consisting of a mainland and numerous islands in the Aegean and Ionian Seas. It is known for its ancient history, rich culture, and beautiful landscapes, including stunning coastlines and mountain ranges.",
+        "description-city": "Athens is the capital and largest city of Greece, located in the Attica region in the southeast of the country. It is known for its ancient landmarks, including the Acropolis, as well as its vibrant modern culture and nightlife.",
+        "code": "GR",
+        "capital": "Athens"
+    },
+    "South Georgia and the South Sandwich Islands": {
+        "description-country": "South Georgia and the South Sandwich Islands is a British Overseas Territory located in the southern Atlantic Ocean, near Antarctica. The territory is uninhabited by humans, but is home to a variety of wildlife, including penguins, seals, and birds.",
+        "description-city": "",
+        "code": "GS",
+        "capital": ""
+    },
+    "Guatemala": {
+        "description-country": "Guatemala is a country located in Central America, bordered by Mexico to the north and west, Belize to the northeast, Honduras to the east, El Salvador to the southeast, and the Pacific Ocean to the south. It is known for its ancient Mayan ruins, beautiful landscapes, and vibrant culture.",
+        "description-city": "Guatemala City is the capital and largest city of Guatemala, located in the southern part of the country. It is known for its colonial architecture, beautiful parks, and rich cultural heritage.",
+        "code": "GT",
+        "capital": "Guatemala City"
+    },
+    "Guam": {
+        "description-country": "Guam is a U.S. territory located in the western Pacific Ocean, near the Philippines. The island is known for its beautiful beaches, rich history, and unique blend of American and Chamorro cultures.",
+        "description-city": "Hagåtña, also known as Agana, is the capital and largest city of Guam. It is located in the western part of the island, near the mouth of the Hagåtña River.",
+        "code": "GU",
+        "capital": "Hagåtña"
+    },
+    "Guinea-Bissau": {
+        "description-country": "Guinea-Bissau is a small country located in West Africa, bordered by Senegal to the north and Guinea to the south and east. The country is known for its diverse culture, beautiful beaches, and rich history.",
+        "description-city": "Bissau is the capital and largest city of Guinea-Bissau, located on the coast of the Atlantic Ocean. It is known for its colonial architecture, bustling markets, and vibrant nightlife.",
+        "code": "GW",
+        "capital": "Bissau"
+    },
+    "Guyana": {
+        "description-country": "Guyana is a country located in northern South America, bordered by Venezuela to the west, Suriname to the east, Brazil to the south, and the Atlantic Ocean to the north. It is known for its diverse wildlife and vibrant culture.",
+        "description-city": "Georgetown is the capital and largest city of Guyana. It is located on the coast of the Atlantic Ocean and has a population of around 240,000 people.",
+        "code": "GY",
+        "capital": "Georgetown"
+    },
+    "Hong Kong": {
+        "description-country": "Hong Kong is a Special Administrative Region of China located on the southern coast of China. It is known for its skyscrapers, bustling street markets, and world-class cuisine.",
+        "description-city": "Hong Kong is a global financial center and has one of the busiest ports in the world. The city is also home to many tourist attractions, such as Victoria Peak and the Big Buddha.",
+        "code": "HK",
+        "capital": "Hong Kong"
+    },
+    "Heard Island and McDonald Islands": {
+        "description-country": "Heard Island and McDonald Islands are a group of volcanic islands located in the southern Indian Ocean, about two-thirds of the way from Madagascar to Antarctica. They are an Australian external territory and are known for their rugged terrain and unique wildlife.",
+        "description-city": "There are no cities on Heard Island and McDonald Islands. The islands are uninhabited except for a small team of researchers who occasionally visit to conduct scientific studies.",
+        "code": "HM",
+        "capital": "N/A"
+    },
+    "Honduras": {
+        "description-country": "Honduras is a country located in Central America, bordered by Guatemala to the west, El Salvador to the south, Nicaragua to the east, the Caribbean Sea to the north, and the Pacific Ocean to the southwest. It is known for its rich cultural heritage and natural beauty.",
+        "description-city": "Tegucigalpa is the capital and largest city of Honduras. It is located in the central highlands of the country and has a population of around 1.2 million people.",
+        "code": "HN",
+        "capital": "Tegucigalpa"
+    },
+    "Croatia": {
+        "description-country": "Croatia is a country located in Central and Southeast Europe, bordered by Slovenia to the northwest, Hungary to the northeast, Serbia to the east, Bosnia and Herzegovina to the southeast, Montenegro to the south, and the Adriatic Sea to the west. It is known for its stunning coastline, historic cities, and natural beauty.",
+        "description-city": "Zagreb is the capital and largest city of Croatia. It is located in the northwestern part of the country and has a population of around 800,000 people.",
+        "code": "HR",
+        "capital": "Zagreb"
+    },
+    "Haiti": {
+        "description-country": "Haiti is a country located on the island of Hispaniola in the Caribbean Sea. It shares the island with the Dominican Republic to the east. Haiti is known for its vibrant culture and history, as well as its beautiful beaches and tropical climate.",
+        "description-city": "Port-au-Prince is the capital and largest city of Haiti. It is located on the Gulf of Gonâve and has a population of around 1 million people.",
+        "code": "HT",
+        "capital": "Port-au-Prince"
+    },
+    "Hungary": {
+        "description-country": "Hungary is a landlocked country in Central Europe, known for its rich cultural heritage, delicious food and wine, and stunning architecture.",
+        "description-city": "Budapest is the capital and largest city of Hungary. It is situated on the banks of the Danube River and is known for its beautiful bridges, thermal baths, and historic architecture.",
+        "code": "HU",
+        "capital": "Budapest"
+    },
+    "Indonesia": {
+        "description-country": "Indonesia is an archipelago of thousands of islands located in Southeast Asia, known for its diverse culture, stunning natural beauty, and unique wildlife.",
+        "description-city": "Jakarta is the capital and largest city of Indonesia. It is a bustling metropolis with a population of over 10 million people, and is known for its vibrant culture, historic landmarks, and delicious cuisine.",
+        "code": "ID",
+        "capital": "Jakarta"
+    },
+    "Ireland": {
+        "description-country": "Ireland is an island country located in northwestern Europe, known for its stunning natural landscapes, rich history and culture, and friendly people.",
+        "description-city": "Dublin is the capital and largest city of Ireland. It is a vibrant and bustling city with a rich literary and cultural heritage, and is known for its famous pubs, lively music scene, and historic landmarks.",
+        "code": "IE",
+        "capital": "Dublin"
+    },
+    "Israel": {
+        "description-country": "Israel is a country located in the Middle East, bordered by the Mediterranean Sea to the west, Lebanon to the north, Syria to the northeast, Jordan to the east, and Egypt to the southwest. Israel is known for its rich history, vibrant culture, and diverse population.",
+        "description-city": "Jerusalem is the capital and largest city of Israel. It is considered one of the holiest cities in the world for Jews, Christians, and Muslims, and is home to many historic and religious sites.",
+        "code": "IL",
+        "capital": "Jerusalem"
+    },
+    "Isle of Man": {
+        "description-country": "The Isle of Man is a self-governing British Crown dependency located in the Irish Sea between England and Ireland. The island is known for its rugged coastline, rolling hills, and historic castles.",
+        "description-city": "Douglas is the capital and largest town of the Isle of Man. It is located on the east coast of the island and is known for its Victorian architecture and scenic seafront.",
+        "code": "IM",
+        "capital": "Douglas"
+    },
+    "India": {
+        "description-country": "India is a country in South Asia, bordered by the Indian Ocean to the south, the Bay of Bengal to the east, and the Arabian Sea to the west. India is known for its diverse culture, rich history, and vibrant economy.",
+        "description-city": "New Delhi is the capital and largest city of India. It is located in the northern part of the country and is known for its historic landmarks, vibrant culture, and delicious cuisine.",
+        "code": "IN",
+        "capital": "New Delhi"
+    },
+    "British Indian Ocean Territory": {
+        "description-country": "The British Indian Ocean Territory is a British overseas territory located in the Indian Ocean. The territory is made up of a group of islands, and is home to a large number of seabirds, marine mammals, and other wildlife.",
+        "description-city": "Diego Garcia is the only inhabited island in the British Indian Ocean Territory. It is home to a small military base and a population of around 3,000 people.",
+        "code": "IO",
+        "capital": "Diego Garcia"
+    },
+    "Liberia": {
+        "description-country": "Liberia is a country located in West Africa, bordered by Sierra Leone to the northwest, Guinea to the north, Ivory Coast to the east, and the Atlantic Ocean to the south and west. Liberia is known for its diverse culture, stunning beaches, and rich history.",
+        "description-city": "Monrovia is the capital and largest city of Liberia. It is located on the Atlantic coast and is known for its lively markets, historic landmarks, and beautiful beaches.",
+        "code": "LR",
+        "capital": "Monrovia"
+    },
+    "Lesotho": {
+        "description-country": "Lesotho is a small landlocked country in southern Africa, surrounded by South Africa. The country is known for its stunning mountains, rugged terrain, and vibrant culture.",
+        "description-city": "Maseru is the capital and largest city of Lesotho. It is located in the western part of the country and is known for its scenic surroundings, lively markets, and historic landmarks.",
+        "code": "LS",
+        "capital": "Maseru"
+    },
+    "Lithuania": {
+        "description-country": "Lithuania is a country located in the Baltic region of Europe, known for its beautiful forests, lakes, and rivers. It has a rich cultural heritage and is home to many historic sites and museums.",
+        "description-city": "Vilnius is the capital and largest city of Lithuania. It is known for its beautiful Old Town, which is a UNESCO World Heritage Site, as well as its many parks and museums.",
+        "code": "LT",
+        "capital": "Vilnius"
+    },
+    "Luxembourg": {
+        "description-country": "Luxembourg is a small, landlocked country in Western Europe, known for its beautiful countryside, historic castles, and vibrant cultural scene.",
+        "description-city": "Luxembourg City is the capital and largest city of Luxembourg. It is a charming city with a mix of old and new architecture, including many historic fortifications and modern skyscrapers.",
+        "code": "LU",
+        "capital": "Luxembourg City"
+    },
+    "Latvia": {
+        "description-country": "Latvia is a country located in the Baltic region of Europe, known for its beautiful forests, lakes, and rivers. It has a rich cultural heritage and is home to many historic sites and museums.",
+        "description-city": "Riga is the capital and largest city of Latvia. It is known for its beautiful Old Town, which is a UNESCO World Heritage Site, as well as its many parks and museums.",
+        "code": "LV",
+        "capital": "Riga"
+    },
+    "Libya": {
+        "description-country": "Libya is a country located in North Africa, known for its rich history and culture, as well as its stunning desert landscapes.",
+        "description-city": "Tripoli is the capital and largest city of Libya. It is a bustling city with a mix of old and new architecture, including many historic mosques and modern skyscrapers.",
+        "code": "LY",
+        "capital": "Tripoli"
+    },
+    "Morocco": {
+        "description-country": "Morocco is a country located in North Africa, known for its vibrant culture, stunning beaches, and historic cities.",
+        "description-city": "Rabat is the capital and second-largest city of Morocco. It is a beautiful city with a mix of old and new architecture, including many historic mosques and modern buildings.",
+        "code": "MA",
+        "capital": "Rabat"
+    },
+    "Monaco": {
+        "description-country": "Monaco is a tiny, independent city-state located on the French Riviera, known for its luxurious lifestyle and stunning coastal views.",
+        "description-city": "Monaco is the capital and only city of Monaco. It is a playground for the rich and famous, with a beautiful harbor, upscale shopping, and many high-end restaurants and hotels.",
+        "code": "MC",
+        "capital": "Monaco"
+    },
+    "Moldova": {
+        "description-country": "Moldova is a small, landlocked country in Eastern Europe, known for its beautiful countryside, rich history, and traditional culture.",
+        "description-city": "Chișinău is the capital and largest city of Moldova. It is a bustling city with a mix of old and new architecture, including many historic churches and modern skyscrapers.",
+        "code": "MD",
+        "capital": "Chișinău"
+    },
+    "Montenegro": {
+        "description-country": "Montenegro is a small country in Southeastern Europe known for its rugged mountains, medieval villages, and stunning coastline along the Adriatic Sea. It has a rich cultural heritage and a diverse cuisine influenced by its history and geography.",
+        "description-city": "Podgorica is the capital and largest city of Montenegro. It is located in the center of the country, at the confluence of the Ribnica and Morača rivers. Podgorica has a mix of architectural styles, from Ottoman-era buildings to modern skyscrapers.",
+        "code": "ME",
+        "capital": "Podgorica"
+    },
+    "Saint Martin": {
+        "description-country": "Saint Martin is a small island in the Caribbean Sea that is divided between two countries, France and the Netherlands. It is known for its beautiful beaches, turquoise waters, and vibrant culture.",
+        "description-city": "Marigot is the largest town on the French side of Saint Martin. It is known for its colorful buildings, outdoor markets, and French-inspired cuisine.",
+        "code": "MF",
+        "capital": "Marigot"
+    },
+    "Madagascar": {
+        "description-country": "Madagascar is an island nation located off the coast of East Africa. It is known for its unique flora and fauna, with many species found only on the island. Madagascar is also known for its colorful culture, with influences from Africa, Asia, and Europe.",
+        "description-city": "Antananarivo is the capital and largest city of Madagascar. It is located in the central highlands of the country and has a mix of architectural styles, from traditional Malagasy houses to modern buildings.",
+        "code": "MG",
+        "capital": "Antananarivo"
+    },
+    "Marshall Islands": {
+        "description-country": "The Marshall Islands are a chain of islands in the Pacific Ocean, located between Hawaii and the Philippines. They are known for their pristine beaches, coral reefs, and World War II history.",
+        "description-city": "Majuro is the capital and largest city of the Marshall Islands. It is located on the island of Majuro Atoll and has a population of around 27,000 people.",
+        "code": "MH",
+        "capital": "Majuro"
+    },
+    "Macedonia": {
+        "description-country": "North Macedonia is a landlocked country in the Balkans, known for its stunning mountain landscapes, historic monasteries, and delicious cuisine.",
+        "description-city": "Skopje is the capital and largest city of North Macedonia. It is located on the Vardar River and has a mix of architectural styles, from Ottoman-era buildings to modern landmarks.",
+        "code": "MK",
+        "capital": "Skopje"
+    },
+    "Mali": {
+        "description-country": "Mali is a landlocked country in West Africa, known for its rich cultural heritage, vibrant music scene, and historic landmarks.",
+        "description-city": "Bamako is the capital and largest city of Mali. It is located on the Niger River and has a mix of traditional mud-brick architecture and modern buildings.",
+        "code": "ML",
+        "capital": "Bamako"
+    },
+    "Myanmar": {
+        "description-country": "Myanmar, also known as Burma, is a country in Southeast Asia with a rich cultural heritage and diverse landscapes. The country is home to ancient temples, lush forests, and stunning beaches, as well as a vibrant culture and welcoming people.",
+        "description-city": "Yangon, also known as Rangoon, is the largest city in Myanmar and was the country's capital until 2006. It is a bustling metropolis with a mix of colonial architecture, traditional markets, and modern skyscrapers.",
+        "code": "MM",
+        "capital": "Naypyidaw"
+    },
+    "Mongolia": {
+        "description-country": "Mongolia is a landlocked country in East and Central Asia, known for its vast, rugged landscapes, nomadic culture, and rich history. The country is home to the Gobi Desert, the Altai Mountains, and the grassy steppes that have been the homeland of the Mongolian people for centuries.",
+        "description-city": "Ulaanbaatar is the capital and largest city of Mongolia, located in the central part of the country. It is a rapidly developing city with a mix of modern and traditional architecture and a thriving arts and culture scene.",
+        "code": "MN",
+        "capital": "Ulaanbaatar"
+    },
+    "Macau": {
+        "description-country": "Macau is a Special Administrative Region of the People's Republic of China, located on the southern coast of China. It is known for its mix of Portuguese and Chinese cultures, as well as its vibrant casino industry.",
+        "description-city": "Macau, also spelled Macao, is the capital and largest city of the Macau Special Administrative Region. It is a bustling city with a mix of colonial architecture, traditional Chinese temples, and modern skyscrapers.",
+        "code": "MO",
+        "capital": "Macau"
+    },
+    "Northern Mariana Islands": {
+        "description-country": "The Northern Mariana Islands are a group of 14 islands located in the western Pacific Ocean. They are known for their stunning natural beauty, with white sandy beaches, crystal-clear waters, and lush tropical forests.",
+        "description-city": "Saipan is the largest and capital city of the Northern Mariana Islands. It is a small but vibrant city with a mix of modern and traditional architecture and a laid-back island vibe.",
+        "code": "MP",
+        "capital": "Saipan"
+    },
+    "Martinique": {
+        "description-country": "Martinique is a Caribbean island that is an overseas department of France. It is known for its beautiful beaches, lush rainforests, and vibrant Creole culture.",
+        "description-city": "Fort-de-France is the capital and largest city of Martinique. It is a bustling port town with a mix of colonial and modern architecture, as well as a lively arts and culture scene.",
+        "code": "MQ",
+        "capital": "Fort-de-France"
+    },
+    "Mauritania": {
+        "description-country": "Mauritania is a country in West Africa, bordered by the Atlantic Ocean to the west and the Sahara Desert to the north and east. It is known for its rugged desert landscapes, ancient ruins, and diverse wildlife.",
+        "description-city": "Nouakchott is the capital and largest city of Mauritania. It is a sprawling city with a mix of traditional and modern architecture and a vibrant arts and culture scene.",
+        "code": "MR",
+        "capital": "Nouakchott"
+    },
+    "Montserrat": {
+        "description-country": "Montserrat is a British Overseas Territory located in the Caribbean Sea. The island is known for its stunning natural beauty and friendly locals, and is a popular destination for diving and hiking.",
+        "description-city": "Plymouth was the capital and largest city of Montserrat until it was destroyed by a volcanic eruption in 1995. The new capital of Montserrat is Brades.",
+        "code": "MS",
+        "capital": "Brades"
+    },
+    "Malta": {
+        "description-country": "Malta is a small island nation located in the Mediterranean Sea, south of Sicily. It is known for its rich history, stunning architecture, and beautiful beaches.",
+        "description-city": "Valletta is the capital city of Malta, and is located on the eastern coast of the island. It is known for its beautiful Baroque architecture and historical landmarks.",
+        "code": "MT",
+        "capital": "Valletta"
+    },
+    "Mauritius": {
+        "description-country": "Mauritius is a small island nation located in the Indian Ocean, east of Madagascar. It is known for its stunning beaches, coral reefs, and multicultural population.",
+        "description-city": "Port Louis is the capital city of Mauritius, and is located on the northwestern coast of the island. It is known for its bustling markets, historical landmarks, and colorful architecture.",
+        "code": "MU",
+        "capital": "Port Louis"
+    },
+    "Maldives": {
+        "description-country": "The Maldives is a small island nation located in the Indian Ocean, southwest of India. It is known for its stunning natural beauty, including turquoise waters, white sand beaches, and vibrant coral reefs.",
+        "description-city": "Malé is the capital and largest city of the Maldives, located on the island of Malé. It is known for its colorful buildings, bustling markets, and scenic waterfront.",
+        "code": "MV",
+        "capital": "Malé"
+    },
+    "Malawi": {
+        "description-country": "Malawi is a landlocked country located in southeastern Africa. It is known for its stunning landscapes, diverse wildlife, and friendly people.",
+        "description-city": "Lilongwe is the capital city of Malawi, located in the central region of the country. It is known for its lively markets, beautiful parks, and cultural attractions.",
+        "code": "MW",
+        "capital": "Lilongwe"
+    },
+    "Mexico": {
+        "description-country": "Mexico is a large country located in North America, bordering the United States to the north and Belize and Guatemala to the south. It is known for its rich history, vibrant culture, and delicious cuisine.",
+        "description-city": "Mexico City is the capital and largest city of Mexico, located in the central region of the country. It is known for its colorful architecture, bustling markets, and historical landmarks.",
+        "code": "MX",
+        "capital": "Mexico City"
+    },
+    "Malaysia": {
+        "description-country": "Malaysia is a country located in Southeast Asia, known for its stunning natural beauty, diverse culture, and delicious food.",
+        "description-city": "Kuala Lumpur is the capital city of Malaysia, located in the western part of the country. It is known for its modern skyline, bustling markets, and cultural landmarks.",
+        "code": "MY",
+        "capital": "Kuala Lumpur"
+    },
+    "Mozambique": {
+        "description-country": "Mozambique is a country in Southeast Africa, bordered by Tanzania to the north, Malawi and Zambia to the northwest, Zimbabwe to the west, South Africa and Eswatini to the southwest, and the Indian Ocean to the east.",
+        "description-city": "Maputo is the capital and largest city of Mozambique, located in the southern part of the country. It is situated on the coast of the Indian Ocean and is known for its beautiful beaches and vibrant nightlife.",
+        "code": "MZ",
+        "capital": "Maputo"
+    },
+    "Namibia": {
+        "description-country": "Namibia is a country in southern Africa, known for its vast desert landscapes, national parks and wildlife reserves, and rich indigenous cultures.",
+        "description-city": "Windhoek is the capital and largest city of Namibia, located in the central part of the country. It is known for its German colonial architecture and rich cultural heritage.",
+        "code": "NA",
+        "capital": "Windhoek"
+    },
+    "New Caledonia": {
+        "description-country": "New Caledonia is a French territory located in the southwestern Pacific Ocean, east of Australia and northeast of New Zealand. It is known for its beautiful coral reefs, beaches, and rainforests.",
+        "description-city": "Nouméa is the capital and largest city of New Caledonia, located on the main island of Grande Terre. It is known for its French colonial architecture, vibrant culture, and stunning beaches.",
+        "code": "NC",
+        "capital": "Nouméa"
+    },
+    "Niger": {
+        "description-country": "Niger is a landlocked country in West Africa, bordered by Libya to the northeast, Chad to the east, Nigeria to the south, Benin to the southwest, Burkina Faso and Mali to the west, and Algeria to the northwest.",
+        "description-city": "Niamey is the capital and largest city of Niger, located on the banks of the Niger River in the southwestern part of the country. It is known for its bustling markets, historic architecture, and vibrant culture.",
+        "code": "NE",
+        "capital": "Niamey"
+    },
+    "Norfolk Island": {
+        "description-country": "Norfolk Island is a small island in the Pacific Ocean, located between Australia, New Zealand, and New Caledonia. It is known for its rugged beauty, rich history, and unique ecosystem.",
+        "description-city": "Kingston is the capital of Norfolk Island, located on the eastern side of the island. It is known for its historic buildings, including the ruins of the old penal colony, and its stunning ocean views.",
+        "code": "NF",
+        "capital": "Kingston"
+    },
+    "Nigeria": {
+        "description-country": "Nigeria is a country in West Africa, known for its diverse cultures, rich history, and vibrant economy. It is the most populous country in Africa and the seventh most populous country in the world.",
+        "description-city": "Abuja is the capital and second largest city of Nigeria, located in the center of the country. It is known for its modern architecture, bustling markets, and vibrant nightlife.",
+        "code": "NG",
+        "capital": "Abuja"
+    },
+    "Nicaragua": {
+        "description-country": "Nicaragua is a Central American country known for its stunning natural beauty, including its lakes, volcanoes, and beaches. It is also home to a rich culture, with a mix of indigenous, European, and African influences.",
+        "description-city": "Managua is the capital and largest city of Nicaragua. It is located on the southern shores of Lake Managua and has a population of over 1 million people.",
+        "code": "NI",
+        "capital": "Managua"
+    },
+    "Netherlands": {
+        "description-country": "The Netherlands, also known as Holland, is a country located in Western Europe. It is known for its picturesque countryside, windmills, and tulips, as well as its vibrant cities like Amsterdam and Rotterdam.",
+        "description-city": "Amsterdam is the capital and largest city of the Netherlands. It is known for its beautiful canals, historic architecture, and vibrant nightlife.",
+        "code": "NL",
+        "capital": "Amsterdam"
+    },
+    "Norway": {
+        "description-country": "Norway is a country located in Northern Europe, known for its stunning fjords, mountains, and northern lights. It is also home to a rich history and culture, with a mix of Viking and Scandinavian influences.",
+        "description-city": "Oslo is the capital and largest city of Norway. It is located on the southern coast and is known for its scenic waterfront, museums, and cultural institutions.",
+        "code": "NO",
+        "capital": "Oslo"
+    },
+    "Nepal": {
+        "description-country": "Nepal is a country located in South Asia, known for its stunning mountain ranges including Mount Everest, as well as its vibrant culture and history.",
+        "description-city": "Kathmandu is the capital and largest city of Nepal. It is located in the Kathmandu Valley and is known for its historic temples, palaces, and architecture.",
+        "code": "NP",
+        "capital": "Kathmandu"
+    },
+    "Nauru": {
+        "description-country": "Nauru is a small island nation located in the Pacific Ocean. It is known for its stunning beaches, coral reefs, and marine life.",
+        "description-city": "Yaren is the de facto capital of Nauru, although it is not officially recognized as such. The city is located in the southern part of the island and is home to most of Nauru's government buildings and institutions.",
+        "code": "NR",
+        "capital": "Yaren"
+    },
+    "Niue": {
+        "description-country": "Niue is a small island nation located in the South Pacific Ocean. It is known for its stunning beaches, coral reefs, and tropical climate.",
+        "description-city": "Alofi is the capital and largest city of Niue. It is located on the western coast of the island and is home to most of Niue's government buildings and institutions.",
+        "code": "NU",
+        "capital": "Alofi"
+    },
+    "New Zealand": {
+        "description-country": "New Zealand is a beautiful island nation located in the southwestern Pacific Ocean. It is known for its stunning natural landscapes, including mountains, beaches, and forests, as well as its rich Maori culture and friendly people.",
+        "description-city": "Wellington is the capital city of New Zealand, located on the southern tip of the North Island. It is known for its vibrant arts scene, beautiful harbor, and iconic cable car.",
+        "code": "NZ",
+        "capital": "Wellington"
+    },
+    "Oman": {
+        "description-country": "Oman is a country located in the Middle East, known for its stunning desert landscapes, historic forts and castles, and beautiful beaches along the Arabian Sea. It is also home to a rich culture and history, with influences from Arabia, Persia, and East Africa.",
+        "description-city": "Muscat is the capital and largest city of Oman, located on the Gulf of Oman. It is known for its historic mosques and palaces, beautiful beaches, and lively souqs (markets).",
+        "code": "OM",
+        "capital": "Muscat"
+    },
+    "Panama": {
+        "description-country": "Panama is a country located in Central America, known for its beautiful beaches, tropical rainforests, and famous canal, which connects the Atlantic and Pacific oceans. It is also home to a rich cultural heritage, with influences from Spanish, African, and indigenous cultures.",
+        "description-city": "Panama City is the capital and largest city of Panama, located on the Pacific coast. It is known for its historic district, known as Casco Viejo, as well as its modern skyline and bustling nightlife.",
+        "code": "PA",
+        "capital": "Panama City"
+    },
+    "Peru": {
+        "description-country": "Peru is a country located in South America, known for its stunning Andean mountains, ancient ruins of Machu Picchu, and rich history and culture. It is also home to a diverse range of landscapes, from the Amazon rainforest to the coastal deserts.",
+        "description-city": "Lima is the capital and largest city of Peru, located on the Pacific coast. It is known for its vibrant arts and music scene, historic architecture, and delicious cuisine.",
+        "code": "PE",
+        "capital": "Lima"
+    },
+    "French Polynesia": {
+        "description-country": "French Polynesia is a collection of islands and atolls located in the South Pacific Ocean, known for their stunning natural beauty, including pristine beaches, turquoise lagoons, and coral reefs. It is also home to a rich Polynesian culture and history.",
+        "description-city": "Papeete is the capital and largest city of French Polynesia, located on the island of Tahiti. It is known for its vibrant markets, beautiful harbor, and lively nightlife.",
+        "code": "PF",
+        "capital": "Papeete"
+    },
+    "Papua New Guinea": {
+        "description-country": "Papua New Guinea is a country located in the southwestern Pacific Ocean. It is known for its unique and diverse cultures, as well as its stunning natural beauty, including pristine beaches, rainforests, and coral reefs.",
+        "description-city": "Port Moresby is the capital and largest city of Papua New Guinea. It is located on the southern coast of the country and has a population of around 400,000 people.",
+        "code": "PG",
+        "capital": "Port Moresby"
+    },
+    "Philippines": {
+        "description-country": "The Philippines is a country located in Southeast Asia. It is known for its stunning beaches, vibrant culture, and friendly people. The Philippines is also home to many natural wonders, such as the Chocolate Hills and the Tubbataha Reef.",
+        "description-city": "Manila is the capital and largest city of the Philippines. It is located on the eastern shore of Manila Bay and has a population of over 12 million people.",
+        "code": "PH",
+        "capital": "Manila"
+    },
+    "Pakistan": {
+        "description-country": "Pakistan is a country located in South Asia. It is known for its rich culture, history, and diverse landscapes, which include the Himalayan mountains, deserts, and coastal areas.",
+        "description-city": "Islamabad is the capital city of Pakistan. It is located in the north of the country and has a population of around 1 million people.",
+        "code": "PK",
+        "capital": "Islamabad"
+    },
+    "Poland": {
+        "description-country": "Poland is a country located in Central Europe. It is known for its rich history, culture, and architecture, as well as its beautiful countryside and vibrant cities.",
+        "description-city": "Warsaw is the capital and largest city of Poland. It is located in the east-central part of the country and has a population of over 1.7 million people.",
+        "code": "PL",
+        "capital": "Warsaw"
+    },
+    "Saint Pierre and Miquelon": {
+        "description-country": "Saint Pierre and Miquelon is a self-governing territorial overseas collectivity of France, located in the northwestern Atlantic Ocean near the coast of Canada. It is known for its picturesque fishing villages, French cuisine, and unique blend of French and North American culture.",
+        "description-city": "Saint-Pierre is the capital and largest city of Saint Pierre and Miquelon. It is located on the island of Saint Pierre and has a population of around 6,000 people.",
+        "code": "PM",
+        "capital": "Saint-Pierre"
+    },
+    "Pitcairn": {
+        "description-country": "Pitcairn is a group of four volcanic islands in the southern Pacific Ocean. It is a British Overseas Territory and is known for its isolation, as well as its natural beauty and diverse wildlife.",
+        "description-city": "Adamstown is the capital and only settlement of Pitcairn. It is located on the island of Pitcairn and has a population of around 50 people.",
+        "code": "PN",
+        "capital": "Adamstown"
+    },
+    "Saint Pierre and Miquelon": {
+        "description-country": "Saint Pierre and Miquelon is a self-governing territorial overseas collectivity of France, located in the northwestern Atlantic Ocean near the coast of Canada. It is known for its picturesque fishing villages, French cuisine, and unique blend of French and North American culture.",
+        "description-city": "Saint-Pierre is the capital and largest city of Saint Pierre and Miquelon. It is located on the island of Saint Pierre and has a population of around 6,000 people.",
+        "code": "PM",
+        "capital": "Saint-Pierre"
+    },
+    "Pitcairn": {
+        "description-country": "Pitcairn is a group of four volcanic islands in the southern Pacific Ocean. It is a British Overseas Territory and is known for its isolation, as well as its natural beauty and diverse wildlife.",
+        "description-city": "Adamstown is the capital and only settlement of Pitcairn. It is located on the island of Pitcairn and has a population of around 50 people.",
+        "code": "PN",
+        "capital": "Adamstown"
+    },
+    "Puerto Rico": {
+        "description-country": "Puerto Rico is a territory of the United States located in the northeastern Caribbean Sea. It is known for its tropical climate, sandy beaches, and vibrant culture, which is a blend of Spanish, African, and Taíno influences.",
+        "description-city": "San Juan is the capital and largest city of Puerto Rico. It is located on the northeastern coast of the island and has a population of around 395,000 people.",
+        "code": "PR",
+        "capital": "San Juan"
+    },
+    "Palestinian Territory": {
+        "description-country": "Palestinian Territory refers to the territories of the West Bank and Gaza Strip, which are occupied by Israel. The Palestinian people have been in conflict with Israel over land and political rights for many years.",
+        "description-city": "Ramallah is the de facto administrative capital of the Palestinian Authority, which governs the West Bank. It has a population of around 27,000 people.",
+        "code": "PS",
+        "capital": "Ramallah"
+    },
+    "Portugal": {
+        "description-country": "Portugal is a country located on the western coast of the Iberian Peninsula in southwestern Europe. It is known for its beautiful beaches, historic cities, and traditional cuisine, including port wine and bacalhau (dried salt cod).",
+        "description-city": "Lisbon is the capital and largest city of Portugal. It is located on the western coast of the country and has a population of around 506,000 people.",
+        "code": "PT",
+        "capital": "Lisbon"
+    },
+    "Palau": {
+        "description-country": "Palau is an island country located in the western Pacific Ocean. It is known for its beautiful beaches, coral reefs, and unique culture, which includes traditional dances and songs.",
+        "description-city": "Ngerulmud is the capital of Palau. It is located on the island of Babeldaob and has a population of around 400 people.",
+        "code": "PW",
+        "capital": "Ngerulmud"
+    },
+    "Paraguay": {
+        "description-country": "Paraguay is a landlocked country in South America, bordered by Argentina, Bolivia, and Brazil. It is known for its natural beauty, rich culture, and Guarani language.",
+        "description-city": "Asunción is the capital and largest city of Paraguay. It is located on the Paraguay River and has a population of around 520,000 people.",
+        "code": "PY",
+        "capital": "Asunción"
+    },
+    "Qatar": {
+        "description-country": "Qatar is a small country located on the northeastern coast of the Arabian Peninsula. It is known for its modern architecture, luxury shopping, and rich cultural heritage.",
+        "description-city": "Doha is the capital and largest city of Qatar. It is located on the coast of the Persian Gulf and has a population of around 1 million people.",
+        "code": "QA",
+        "capital": "Doha"
+    },
+    "Reunion": {
+        "description-country": "Réunion is a French overseas department located in the Indian Ocean, east of Madagascar. It is known for its volcanic landscapes, tropical forests, and rich Creole culture.",
+        "description-city": "Saint-Denis is the capital and largest city of Réunion. It is located on the northern coast of the island and has a population of around 150,000 people.",
+        "code": "RE",
+        "capital": "Saint-Denis"
+    },
+    "Romania": {
+        "description-country": "Romania is a country located in southeastern Europe, bordered by Ukraine, Moldova, Bulgaria, Serbia, and Hungary. It is known for its rich history, stunning landscapes, and vibrant culture.",
+        "description-city": "Bucharest is the capital and largest city of Romania. It is located in the southern part of the country and has a population of around 2 million people.",
+        "code": "RO",
+        "capital": "Bucharest"
+    },
+    "Serbia": {
+        "description-country": "Serbia is a landlocked country located in southeastern Europe, bordered by Hungary, Romania, Bulgaria, North Macedonia, Kosovo, Montenegro, and Bosnia and Herzegovina. It is known for its rich history, stunning scenery, and warm hospitality.",
+        "description-city": "Belgrade is the capital and largest city of Serbia. It is located on the confluence of the Sava and Danube rivers and has a population of around 1.7 million people.",
+        "code": "RS",
+        "capital": "Belgrade"
+    },
+    "Russia": {
+        "description-country": "Russia is the largest country in the world, spanning two continents and bordering Norway, Finland, Estonia, Latvia, Lithuania, Poland, Belarus, Ukraine, Georgia, Azerbaijan, Kazakhstan, China, North Korea, and Mongolia. It is known for its rich history, stunning landscapes, and diverse culture.",
+        "description-city": "Moscow is the capital and largest city of Russia. It is located in the western part of the country and has a population of around 12 million people.",
+        "code": "RU",
+        "capital": "Moscow"
+    },
+    "Rwanda": {
+        "description-country": "Rwanda is a landlocked country in East Africa known for its stunning natural scenery, including lush rainforests, rolling hills, and shimmering lakes. It is also famous for its unique culture and traditions, as well as its tragic history of genocide in 1994.",
+        "description-city": "Kigali is the capital and largest city of Rwanda. It is a bustling urban center known for its modern infrastructure, thriving business community, and vibrant cultural scene.",
+        "code": "RW",
+        "capital": "Kigali"
+    },
+    "Saudi Arabia": {
+        "description-country": "Saudi Arabia is a Middle Eastern country known for its vast deserts, ancient history, and rich Islamic culture. It is also home to some of the world's largest oil reserves and plays a significant role in global energy markets.",
+        "description-city": "Riyadh is the capital and largest city of Saudi Arabia. It is a modern metropolis with gleaming skyscrapers, sprawling shopping malls, and a thriving business community.",
+        "code": "SA",
+        "capital": "Riyadh"
+    },
+    "Solomon Islands": {
+        "description-country": "The Solomon Islands are a group of islands located in the South Pacific Ocean, northeast of Australia. They are known for their stunning natural beauty, including lush rainforests, pristine beaches, and crystal-clear waters teeming with marine life.",
+        "description-city": "Honiara is the capital and largest city of the Solomon Islands. It is located on the island of Guadalcanal and is home to around 85,000 people.",
+        "code": "SB",
+        "capital": "Honiara"
+    },
+    "Seychelles": {
+        "description-country": "The Seychelles is an archipelago nation located in the Indian Ocean, off the coast of East Africa. It is known for its stunning natural beauty, including pristine beaches, crystal-clear waters, and lush tropical forests.",
+        "description-city": "Victoria is the capital and largest city of the Seychelles. It is located on the island of Mahe and is home to around 25,000 people.",
+        "code": "SC",
+        "capital": "Victoria"
+    },
+    "Sudan": {
+        "description-country": "Sudan is a large country located in Northeast Africa, known for its ancient history, diverse culture, and stunning natural landscapes. It is also home to many important archaeological sites and landmarks.",
+        "description-city": "Khartoum is the capital and largest city of Sudan. It is located at the confluence of the Blue Nile and White Nile rivers and is home to around 5 million people.",
+        "code": "SD",
+        "capital": "Khartoum"
+    },
+    "Sweden": {
+        "description-country": "Sweden is a Scandinavian country known for its stunning natural beauty, rich culture and history, and modern, progressive society. It is also home to many innovative companies and startups.",
+        "description-city": "Stockholm is the capital and largest city of Sweden. It is located on the eastern coast of the country and is home to around 1 million people.",
+        "code": "SE",
+        "capital": "Stockholm"
+    },
+    "Singapore": {
+        "description-country": "Singapore is a city-state and island country located in Southeast Asia. It is known for its modern and efficient economy, diverse culture, and delicious food.",
+        "description-city": "Singapore City is the capital and largest city of Singapore. It is a global financial center and is known for its iconic landmarks such as Marina Bay Sands and the Merlion.",
+        "code": "SG",
+        "capital": "Singapore City"
+    },
+    "Saint Helena": {
+        "description-country": "Saint Helena is a volcanic island located in the South Atlantic Ocean. It is a British Overseas Territory and is known for its unique ecosystem and history, including its connection to Napoleon Bonaparte.",
+        "description-city": "Jamestown is the capital and largest city of Saint Helena. It is located on the island of Saint Helena and has a population of around 700 people.",
+        "code": "SH",
+        "capital": "Jamestown"
+    },
+    "Slovenia": {
+        "description-country": "Slovenia is a small country located in Central Europe. It is known for its natural beauty, with the Julian Alps and the Adriatic Sea being major tourist destinations.",
+        "description-city": "Ljubljana is the capital and largest city of Slovenia. It is located in the central part of the country and is known for its beautiful architecture and lively cultural scene.",
+        "code": "SI",
+        "capital": "Ljubljana"
+    },
+    "Svalbard and Jan Mayen": {
+        "description-country": "Svalbard and Jan Mayen is a Norwegian archipelago in the Arctic Ocean. It is known for its unique wildlife, including polar bears and walruses, and its harsh and unforgiving environment.",
+        "description-city": "Longyearbyen is the largest settlement and administrative center of Svalbard and Jan Mayen. It is located on the island of Spitsbergen and has a population of around 2,000 people.",
+        "code": "SJ",
+        "capital": "Longyearbyen"
+    },
+    "Slovakia": {
+        "description-country": "Slovakia is a landlocked country in Central Europe. It is known for its stunning natural landscapes, including the Tatra Mountains and the Danube River, as well as its rich history and culture.",
+        "description-city": "Bratislava is the capital and largest city of Slovakia. It is located in the southwestern part of the country and is known for its beautiful architecture and historic old town.",
+        "code": "SK",
+        "capital": "Bratislava"
+    },
+    "Sierra Leone": {
+        "description-country": "Sierra Leone is a country located in West Africa. It is known for its beautiful beaches, wildlife, and cultural diversity, as well as its struggles with poverty and civil war.",
+        "description-city": "Freetown is the capital and largest city of Sierra Leone. It is located on the coast and has a population of around 1 million people.",
+        "code": "SL",
+        "capital": "Freetown"
+    },
+    "San Marino": {
+        "description-country": "San Marino is a tiny country surrounded by Italy. It is known for its medieval architecture, scenic views, and rich cultural heritage.",
+        "description-city": "San Marino City is the capital and largest city of San Marino. It is located on the slopes of Mount Titano and has a population of around 4,000 people.",
+        "code": "SM",
+        "capital": "San Marino City"
+    },
+    "Senegal": {
+        "description-country": "Senegal is a country located in West Africa. It is known for its vibrant culture, diverse wildlife, and rich history.",
+        "description-city": "Dakar is the capital and largest city of Senegal. It is located on the Cape Verde Peninsula and has a population of around 3 million people.",
+        "code": "SN",
+        "capital": "Dakar"
+    },
+    "Somalia": {
+        "description-country": "Somalia is a country located in the Horn of Africa. It is known for its rich cultural heritage, stunning beaches, and diverse wildlife.",
+        "description-city": "Mogadishu is the capital and largest city of Somalia. It is located on the coast of the Indian Ocean and has a population of around 2 million people.",
+        "code": "SO",
+        "capital": "Mogadishu"
+    },
+    "Suriname": {
+        "description-country": "Suriname is a small country located on the northeastern coast of South America. It is known for its diverse culture, lush rainforests, and vibrant nightlife.",
+        "description-city": "Paramaribo is the capital and largest city of Suriname. It is located on the Suriname River and has a population of around 250,000 people.",
+        "code": "SR",
+        "capital": "Paramaribo"
+    },
+    "South Sudan": {
+        "description-country": "South Sudan is a country located in East-Central Africa. It is known for its diverse wildlife, stunning landscapes, and rich cultural heritage.",
+        "description-city": "Juba is the capital and largest city of South Sudan. It is located on the White Nile and has a population of around 500,000 people.",
+        "code": "SS",
+        "capital": "Juba"
+    },
+    "Sao Tome and Principe": {
+        "description-country": "Sao Tome and Principe is a small island country located in the Gulf of Guinea. It is known for its stunning beaches, rich biodiversity, and vibrant culture.",
+        "description-city": "Sao Tome is the capital and largest city of Sao Tome and Principe. It is located on the island of Sao Tome and has a population of around 200,000 people.",
+        "code": "ST",
+        "capital": "Sao Tome"
+    },
+    "El Salvador": {
+        "description-country": "El Salvador is a small country located in Central America. It is known for its stunning beaches, vibrant culture, and rich history.",
+        "description-city": "San Salvador is the capital and largest city of El Salvador. It is located in the central region of the country and has a population of around 2 million people.",
+        "code": "SV",
+        "capital": "San Salvador"
+    },
+    "Sint Maarten": {
+        "description-country": "Sint Maarten is a constituent country of the Kingdom of the Netherlands located in the Caribbean. It occupies the southern half of the island of Saint Martin and is known for its beaches, nightlife, and duty-free shopping.",
+        "description-city": "Philipsburg is the capital of Sint Maarten and the largest city on the island. It is a popular tourist destination and has a population of around 1,400 people.",
+        "code": "SX",
+        "capital": "Philipsburg"
+    },
+    "Syria": {
+        "description-country": "Syria is a country located in Western Asia, bordered by Lebanon to the west, Turkey to the north, Iraq to the east, Jordan to the south, and Israel to the southwest. It has a rich history and is home to many ancient ruins and historical sites.",
+        "description-city": "Damascus is the capital and largest city of Syria. It is one of the oldest continuously inhabited cities in the world and is known for its historical and cultural significance.",
+        "code": "SY",
+        "capital": "Damascus"
+    },
+    "Swaziland": {
+        "description-country": "Swaziland, officially known as the Kingdom of Eswatini, is a landlocked country in Southern Africa. It is known for its diverse wildlife, landscapes, and cultural heritage.",
+        "description-city": "Mbabane is the capital and largest city of Swaziland. It is located in the Mdimba Mountains and has a population of around 95,000 people.",
+        "code": "SZ",
+        "capital": "Mbabane"
+    },
+    "Turks and Caicos Islands": {
+        "description-country": "The Turks and Caicos Islands are a British Overseas Territory located in the Caribbean, southeast of the Bahamas. They are known for their pristine beaches, turquoise waters, and coral reefs.",
+        "description-city": "Cockburn Town is the capital of the Turks and Caicos Islands and the largest city on the island of Grand Turk. It has a population of around 3,000 people.",
+        "code": "TC",
+        "capital": "Cockburn Town"
+    },
+    "Chad": {
+        "description-country": "Chad is a landlocked country in north-central Africa. It is known for its diverse wildlife, including elephants, lions, and giraffes, as well as its unique landscapes, such as the Ennedi Plateau and Lake Chad.",
+        "description-city": "N'Djamena is the capital and largest city of Chad. It is located on the banks of the Chari River and has a population of around 1.3 million people.",
+        "code": "TD",
+        "capital": "N'Djamena"
+    },
+    "French Southern Territories": {
+        "description-country": "The French Southern and Antarctic Lands are a group of islands and territories in the southern Indian Ocean, including the islands of Kerguelen, Saint-Paul, and Amsterdam. They are administered by France and are known for their unique wildlife, including penguins and seals.",
+        "description-city": "There is no official capital of the French Southern and Antarctic Lands.",
+        "code": "TF",
+        "capital": ""
+    },
+    "Bonaire Saint Eustatius and Saba": {
+        "description-country": "Bonaire, Saint Eustatius, and Saba are three islands in the Caribbean Sea that are special municipalities of the Netherlands. They are known for their coral reefs, beaches, and unique cultures.",
+        "description-city": "",
+        "code": "BQ",
+        "capital": ""
+    },
+    "Macao": {
+        "description-country": "Macao is a special administrative region of China located on the southern coast. It is known for its blend of Portuguese and Chinese culture, as well as its casinos and entertainment industry.",
+        "description-city": "Macao has no official capital, but its largest city is Macao.",
+        "code": "MO",
+        "capital": ""
+    },
+    "Togo": {
+        "description-country": "Togo is a small country in West Africa known for its diverse culture, music, and natural attractions, such as its beaches, waterfalls, and national parks.",
+        "description-city": "Lomé is the capital and largest city of Togo. It is located on the Gulf of Guinea and has a population of around 1.5 million people.",
+        "code": "TG",
+        "capital": "Lomé"
+    },
+    "Thailand": {
+        "description-country": "Thailand is a country in Southeast Asia known for its beautiful beaches, ornate temples, and delicious food. It is also known for its bustling cities, such as Bangkok and Chiang Mai.",
+        "description-city": "Bangkok is the capital and largest city of Thailand. It is known for its vibrant street life, historic landmarks, and modern shopping malls.",
+        "code": "TH",
+        "capital": "Bangkok"
+    },
+    "Tajikistan": {
+        "description-country": "Tajikistan is a mountainous country in Central Asia known for its stunning landscapes, including the Pamir Mountains and Lake Iskanderkul. It is also known for its rich culture and history.",
+        "description-city": "Dushanbe is the capital and largest city of Tajikistan. It is located in the west of the country and has a population of around 800,000 people.",
+        "code": "TJ",
+        "capital": "Dushanbe"
+    },
+    "Tokelau": {
+        "description-country": "Tokelau is a territory of New Zealand in the South Pacific Ocean. It is made up of three atolls and is known for its coral reefs, lagoons, and traditional way of life.",
+        "description-city": "There are no cities in Tokelau.",
+        "code": "TK",
+        "capital": ""
+    },
+    "Timor Leste": {
+        "description-country": "Timor-Leste, also known as East Timor, is a small country in Southeast Asia. It is located on the eastern half of the island of Timor and is known for its rugged terrain and rich cultural heritage.",
+        "description-city": "Dili is the capital and largest city of Timor-Leste. It is located on the northern coast of the island of Timor and has a population of around 234,000 people.",
+        "code": "TL",
+        "capital": "Dili"
+    },
+    "Turkmenistan": {
+        "description-country": "Turkmenistan is a country in Central Asia. It is known for its extensive natural gas reserves and its elaborate monuments and buildings, many of which were built during the rule of former President Saparmurat Niyazov.",
+        "description-city": "Ashgabat is the capital and largest city of Turkmenistan. It is located in the south-central part of the country and has a population of around 1.2 million people.",
+        "code": "TM",
+        "capital": "Ashgabat"
+    },
+    "Tunisia": {
+        "description-country": "Tunisia is a country in North Africa. It is known for its Mediterranean beaches, ancient ruins, and bustling markets.",
+        "description-city": "Tunis is the capital and largest city of Tunisia. It is located on the northeast coast of the country and has a population of around 2.3 million people.",
+        "code": "TN",
+        "capital": "Tunis"
+    },
+    "Tonga": {
+        "description-country": "Tonga is a Polynesian kingdom located in the South Pacific Ocean. It is known for its beautiful beaches, tropical climate, and friendly people.",
+        "description-city": "Nuku'alofa is the capital and largest city of Tonga. It is located on the northern coast of the island of Tongatapu and has a population of around 25,000 people.",
+        "code": "TO",
+        "capital": "Nuku'alofa"
+    },
+    "Turkey": {
+        "description-country": "Turkey is a country located in both Europe and Asia. It is known for its rich history, stunning architecture, and beautiful landscapes, including the famous Cappadocia region.",
+        "description-city": "Ankara is the capital of Turkey. It is located in the central part of the country and has a population of around 5.6 million people.",
+        "code": "TR",
+        "capital": "Ankara"
+    },
+    "Trinidad and Tobago": {
+        "description-country": "Trinidad and Tobago is a dual-island Caribbean nation known for its diverse culture, cuisine, and Carnival celebrations. It is home to beautiful beaches, coral reefs, and lush rainforests.",
+        "description-city": "Port of Spain is the capital and largest city of Trinidad and Tobago. It is a hub of business, government, and culture, and is famous for its lively Carnival celebrations.",
+        "code": "TT",
+        "capital": "Port of Spain"
+    },
+    "Tuvalu": {
+        "description-country": "Tuvalu is a small island nation located in the Pacific Ocean. It is made up of nine coral atolls and is known for its beautiful beaches and unique culture.",
+        "description-city": "Funafuti is the capital and largest city of Tuvalu. It is located on the atoll of Funafuti and has a population of around 6,000 people.",
+        "code": "TV",
+        "capital": "Funafuti"
+    },
+    "Taiwan": {
+        "description-country": "Taiwan is a sovereign state in East Asia known for its bustling cities, beautiful landscapes, and delicious cuisine. It is home to over 23 million people and has a rich cultural heritage.",
+        "description-city": "Taipei is the capital and largest city of Taiwan. It is a major center for business, culture, and technology, and is known for its iconic Taipei 101 skyscraper.",
+        "code": "TW",
+        "capital": "Taipei"
+    },
+    "Tanzania": {
+        "description-country": "Tanzania is an East African country known for its vast wilderness areas, including the Serengeti National Park and Mount Kilimanjaro. It is home to over 60 million people and has a diverse cultural heritage.",
+        "description-city": "Dodoma is the capital city of Tanzania, but Dar es Salaam is the largest city and the commercial center of the country.",
+        "code": "TZ",
+        "capital": "Dodoma"
+    },
+    "Ukraine": {
+        "description-country": "Ukraine is a large country in Eastern Europe known for its rich history, cultural heritage, and beautiful landscapes. It is home to over 42 million people and has a diverse economy.",
+        "description-city": "Kyiv is the capital and largest city of Ukraine. It is a major center for business, culture, and education, and is home to many historic landmarks.",
+        "code": "UA",
+        "capital": "Kyiv"
+    },
+    "Uganda": {
+        "description-country": "Uganda is a landlocked country in East Africa known for its diverse wildlife, including mountain gorillas, chimpanzees, and various bird species. It is home to over 45 million people and has a rich cultural heritage.",
+        "description-city": "Kampala is the capital and largest city of Uganda. It is a major center for business, culture, and education, and is known for its vibrant nightlife and music scene.",
+        "code": "UG",
+        "capital": "Kampala"
+    },
+    "United States Minor Outlying Islands": {
+        "description-country": "The United States Minor Outlying Islands are a group of nine islands and atolls in the Pacific and Indian Oceans. The islands have no permanent population and are mostly uninhabited, except for the military personnel and scientists stationed there.",
+        "description-city": "There is no official capital of the United States Minor Outlying Islands.",
+        "code": "UM",
+        "capital": ""
+    },
+    "United States": {
+        "description-country": "The United States of America is a federal republic consisting of 50 states, a federal district (Washington, D.C.), and five major territories. The country is known for its diverse culture, world-renowned landmarks, and global economic influence.",
+        "description-city": "Washington, D.C. is the capital city of the United States and is located on the east coast of the country. It is known for its iconic landmarks, such as the White House and the National Mall.",
+        "code": "US",
+        "capital": "Washington, D.C."
+    },
+    "Uruguay": {
+        "description-country": "Uruguay is a country located in southeastern South America. It is known for its beautiful beaches, rich culture, and political stability. Uruguay is also the world's leading producer of wool.",
+        "description-city": "Montevideo is the capital and largest city of Uruguay. It is located on the country's southern coast and has a population of around 1.3 million people.",
+        "code": "UY",
+        "capital": "Montevideo"
+    },
+    "Uzbekistan": {
+        "description-country": "Uzbekistan is a landlocked country in Central Asia, known for its rich history and diverse cultural heritage. The country is home to many ancient cities, including Samarkand and Bukhara, which are renowned for their architectural beauty.",
+        "description-city": "Tashkent is the capital and largest city of Uzbekistan. It is located in the northeastern part of the country and has a population of over 2.5 million people.",
+        "code": "UZ",
+        "capital": "Tashkent"
+    },
+    "Vatican": {
+        "description-country": "The Vatican City is a sovereign city-state enclaved within Rome, Italy. It is the smallest country in the world, both in terms of area and population, and is the spiritual and administrative center of the Roman Catholic Church.",
+        "description-city": "The Vatican City is the de facto capital of the Vatican City State.",
+        "code": "VA",
+        "capital": "Vatican City"
+    },
+    "Saint Vincent and the Grenadines": {
+        "description-country": "Saint Vincent and the Grenadines is an island country in the Caribbean. It is known for its white sandy beaches, crystal-clear waters, and lush rainforests. The country is also a popular destination for sailing and yachting enthusiasts.",
+        "description-city": "Kingstown is the capital and largest city of Saint Vincent and the Grenadines. It is located on the southern coast of the main island and has a population of around 16,000 people.",
+        "code": "VC",
+        "capital": "Kingstown"
+    },
+    "Venezuela": {
+        "description-country": "Venezuela is a country in South America known for its diverse culture, natural beauty, and rich history. The country is home to Angel Falls, the highest waterfall in the world, and is known for its delicious cuisine and vibrant music.",
+        "description-city": "Caracas is the capital and largest city of Venezuela. It is located in the northern part of the country and has a population of over 2 million people.",
+        "code": "VE",
+        "capital": "Caracas"
+    },
+    "British Virgin Islands": {
+        "description-country": "The British Virgin Islands are a group of islands located in the Caribbean Sea. The islands are known for their beautiful beaches, crystal-clear waters, and great opportunities for sailing and snorkeling.",
+        "description-city": "Road Town is the capital and largest city of the British Virgin Islands. It is located on the island of Tortola and has a population of around 10,000 people.",
+        "code": "VG",
+        "capital": "Road Town"
+    },
+    "U.S. Virgin Islands": {
+        "description-country": "The U.S. Virgin Islands are a group of islands located in the Caribbean Sea. The islands are known for their beautiful beaches, crystal-clear waters, and great opportunities for sailing and snorkeling.",
+        "description-city": "Charlotte Amalie is the capital and largest city of the U.S. Virgin Islands. It is located on the island of Saint Thomas and has a population of around 19,000 people.",
+        "code": "VI",
+        "capital": "Charlotte Amalie"
+    },
+    "Vietnam": {
+        "description-country": "Vietnam is a country in Southeast Asia known for its stunning natural beauty, ancient history, and delicious cuisine. The country is home to many beautiful beaches, mountain ranges, and national parks.",
+        "description-city": "Hanoi is the capital and second-largest city of Vietnam. It is located in the northern part of the country and has a population of around 7.6 million people.",
+        "code": "VN",
+        "capital": "Hanoi"
+    },
+    "Vanuatu": {
+        "description-country": "Vanuatu is an island country located in the South Pacific Ocean. The country is known for its stunning natural beauty, including active volcanoes, pristine beaches, and coral reefs.",
+        "description-city": "Port Vila is the capital and largest city of Vanuatu. It is located on the island of Efate and has a population of around 44,000 people.",
+        "code": "VU",
+        "capital": "Port Vila"
+    },
+    "Wallis and Futuna": {
+        "description-country": "Wallis and Futuna is a French overseas collectivity located in the South Pacific Ocean. The collectivity is made up of three main islands and several smaller ones, and is known for its beautiful lagoons, coral reefs, and unique culture.",
+        "description-city": "Mata-Utu is the capital and largest city of Wallis and Futuna. It is located on the island of Uvea and has a population of around 1,200 people.",
+        "code": "WF",
+        "capital": "Mata-Utu"
+    },
+    "Samoa": {
+        "description-country": "Samoa is an island country located in the South Pacific Ocean. It is known for its beautiful beaches, lush rainforests, and vibrant Polynesian culture.",
+        "description-city": "The capital city of Samoa is Apia. It is located on the island of Upolu and has a population of around 36,000 people.",
+        "code": "WS",
+        "capital": "Apia"
+    },
+    "Kosovo": {
+        "description-country": "Kosovo is a partially recognized country located in the Balkan Peninsula of Europe. It is known for its rich history and cultural heritage, as well as its beautiful natural landscapes.",
+        "description-city": "The capital city of Kosovo is Pristina. It is the largest city in Kosovo and has a population of around 180,000 people.",
+        "code": "XK",
+        "capital": "Pristina"
+    },
+    "Yemen": {
+        "description-country": "Yemen is a country located in the Arabian Peninsula of Southwest Asia. It is known for its ancient history, cultural heritage, and beautiful landscapes.",
+        "description-city": "The capital city of Yemen is Sana'a. It is one of the oldest continuously inhabited cities in the world and has a population of around 2.5 million people.",
+        "code": "YE",
+        "capital": "Sana'a"
+    },
+    "Mayotte": {
+        "description-country": "Mayotte is an overseas department and region of France located in the Indian Ocean. It is known for its beautiful beaches, coral reefs, and unique flora and fauna.",
+        "description-city": "The capital city of Mayotte is Mamoudzou. It is the largest city in Mayotte and has a population of around 60,000 people.",
+        "code": "YT",
+        "capital": "Mamoudzou"
+    },
+    "South Africa": {
+        "description-country": "South Africa is a country located at the southern tip of the African continent. It is known for its diverse population, wildlife, and scenic landscapes, such as Table Mountain and Kruger National Park.",
+        "description-city": "Pretoria is one of the three capital cities of South Africa, along with Cape Town and Bloemfontein. It is located in the northern part of the country and has a population of over 2 million people.",
+        "code": "ZA",
+        "capital": "Pretoria"
+    },
+    "Zambia": {
+        "description-country": "Zambia is a landlocked country in southern Africa, known for its wildlife, such as elephants, lions, and hippos, as well as its natural landmarks, such as Victoria Falls and Lake Kariba.",
+        "description-city": "Lusaka is the capital and largest city of Zambia, located in the southern part of the country. It has a population of over 1.8 million people.",
+        "code": "ZM",
+        "capital": "Lusaka"
+    },
+    "Zimbabwe": {
+        "description-country": "Zimbabwe is a landlocked country located in southern Africa. It is known for its wildlife, such as elephants, lions, and buffalo, as well as its historic landmarks, such as Great Zimbabwe and the ruins of the ancient city of Khami.",
+        "description-city": "Harare is the capital and largest city of Zimbabwe, located in the northeast part of the country. It has a population of over 1.6 million people.",
+        "code": "ZW",
+        "capital": "Harare"
+    }
+}
