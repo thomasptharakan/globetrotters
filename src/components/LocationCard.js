@@ -11,7 +11,7 @@ function LocationCard({ country ,description, image }) {
         />
       </figure>
       <div className="card-body">
-        <h2 className="card-title text-4xl">{country}</h2>
+        <h2 className="card-title text-4xl transition hover:text-cyan-600">{country}</h2>
         <p>{description}</p>
       </div>
     </div>

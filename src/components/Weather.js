@@ -5,7 +5,7 @@ import res_data from './1.json';
 
 const Weather = (props) => {
   const [weather,setWeather]   = useState({});
-  // const uri = `https://api.openweathermap.org/data/2.5/forecast?q=${props.location}&appid=${process.env.REACT_APP_WEATHER_API_KEY}`;
+  const uri = `https://api.openweathermap.org/data/2.5/forecast?q=${props.location}&appid=${process.env.REACT_APP_WEATHER_API_KEY}`;
   
   function createCard(resdata)  {
     let highTemp = resdata.list[0].main.feels_like;
@@ -46,13 +46,13 @@ const Weather = (props) => {
     <React.Fragment>
         <div className="stat place-items-center">
           <div className="stat-title text-cyan-600">Highest Temperature</div>
-          <div className="stat-value"><img alt="High Weather Icon" src={weather.HighWeatherIcon}/></div>
-          <div className="stat-desc">{weather.HighWeather}°C</div>
+          <div className="stat-value transition hover:scale-150"><img alt="High Weather Icon" src={weather.HighWeatherIcon}/></div>
+          <div className="stat-desc text-cyan-800">{weather.HighWeather}°C</div>
         </div>
         <div className="stat place-items-center">
           <div className="stat-title text-cyan-600">Lowest Temperature</div>
-          <div className="stat-value"><img alt="Low Weather Icon" src={weather.LowWeatherIcon}/></div>
-          <div className="stat-desc">{weather.LowWeather}°C</div>
+          <div className="stat-value transition hover:scale-150"><img alt="Low Weather Icon" src={weather.LowWeatherIcon}/></div>
+          <div className="stat-desc text-cyan-800">{weather.LowWeather}°C</div>
         </div>
     </React.Fragment>
 

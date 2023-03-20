@@ -1,21 +1,19 @@
-import { Disclosure } from '@headlessui/react'
-import { Bars3Icon,  XMarkIcon } from '@heroicons/react/24/outline';
-import { NavLink } from 'react-router-dom';
-
+import { Disclosure } from "@headlessui/react";
+import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
+import { NavLink } from "react-router-dom";
 
 const navigation = [
-  { name: 'Home', href: '/', current: true },
-  { name: 'The Team', href: '/about', current: true },
-
-]
+  { name: "Home", href: "/", current: true },
+  { name: "The Team", href: "/about", current: true },
+];
 
 function classNames(...classes) {
-  return classes.filter(Boolean).join(' ')
+  return classes.filter(Boolean).join(" ");
 }
 
 export default function NavBar() {
   return (
-    <Disclosure as="nav" className="bg-gray-800">
+    <Disclosure as="nav" className="bg-slate-800">
       {({ open }) => (
         <>
           <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
@@ -32,8 +30,9 @@ export default function NavBar() {
                 </Disclosure.Button>
               </div>
               <div className="flex flex-1  justify-center sm:items-stretch ">
-                <div className="flex flex-shrink-0 ">
-                  <img
+                <div className="flex flex-shrink-0 text-gray-400">
+                
+                  {/* <img
                     className="block h-8 w-auto lg:hidden"
                     src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
                     alt="Your Company"
@@ -42,22 +41,24 @@ export default function NavBar() {
                     className="hidden h-8 w-auto lg:block"
                     src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
                     alt="Your Company"
-                  />
+                  /> */}
                 </div>
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-4">
                     {navigation.map((item) => (
-                        <NavLink 
-                            key={item.name} 
-                            to={item.href}
-                            className={classNames(
-                                item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                                'rounded-md px-3 py-2 text-sm font-medium'
-                              )}
-                              aria-current={item.current ? 'page' : undefined}
-                        >
+                      <NavLink
+                        key={item.name}
+                        to={item.href}
+                        className={classNames(
+                          item.current
+                            ? "bg-gray-900 text-white"
+                            : "text-gray-300 hover:bg-gray-700 hover:text-white",
+                          "rounded-md px-3 py-2 text-sm font-medium"
+                        )}
+                        aria-current={item.current ? "page" : undefined}
+                      >
                         {item.name}
-                       </NavLink>
+                      </NavLink>
                     ))}
                   </div>
                 </div>
@@ -73,10 +74,12 @@ export default function NavBar() {
                   as={NavLink}
                   to={item.href}
                   className={classNames(
-                    item.current ? 'bg-gray-900 text-white' : 'text-gray-300 hover:bg-gray-700 hover:text-white',
-                    'block rounded-md px-3 py-2 text-base font-medium'
+                    item.current
+                      ? "bg-gray-900 text-white"
+                      : "text-gray-300 hover:bg-gray-700 hover:text-white",
+                    "block rounded-md px-3 py-2 text-base font-medium"
                   )}
-                  aria-current={item.current ? 'page' : undefined}
+                  aria-current={item.current ? "page" : undefined}
                 >
                   {item.name}
                 </Disclosure.Button>
@@ -86,5 +89,17 @@ export default function NavBar() {
         </>
       )}
     </Disclosure>
-  )
+
+//     <div className="navbar bg-neutral text-neutral-content">
+//   <div className="flex-1">
+//     <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
+//   </div>
+//   <div className="flex-none">
+//     <ul className="menu menu-horizontal px-1">
+//       <li><a>Search</a></li>
+//       <li><a>Item 3</a></li>
+//     </ul>
+//   </div>
+// </div>
+  );
 }
