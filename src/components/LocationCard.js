@@ -11,9 +11,14 @@ function LocationCard({ country ,countryDescription,cityDescription , image }) {
         />
       </figure>
       <div className="card-body">
+< population-api
         <h2 className="card-title text-4xl">{country}</h2>
         <p>{countryDescription}</p>
         <p>{cityDescription}</p>
+=======
+        <h2 className="card-title text-4xl transition hover:text-cyan-600">{country}</h2>
+        <p>{description}</p>
+> main
       </div>
     </div>
   );
