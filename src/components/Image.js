@@ -32,9 +32,7 @@ function Image(destination) {
     const apiReq = async () => {
         axios.get(url)
             .then(data => {
-                console.log(data)
                 setLinksArray(data.data.photos.photo.map((photo) => {
-                    console.log(getFlickrImageURL(photo, 'b'))
                     return (getFlickrImageURL(photo, 'b'));
                 }))
             })
