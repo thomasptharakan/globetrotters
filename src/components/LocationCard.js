@@ -1,6 +1,6 @@
 import React from "react";
 
-function LocationCard({ country ,description, image }) {
+function LocationCard({ country ,countryDescription,cityDescription , image }) {
   return (
     <div className="card lg:card-side bg-base-100 shadow-2xl">
       <figure>
@@ -12,7 +12,8 @@ function LocationCard({ country ,description, image }) {
       </figure>
       <div className="card-body">
         <h2 className="card-title text-4xl">{country}</h2>
-        <p>{description}</p>
+        <p>{countryDescription}</p>
+        <p>{cityDescription}</p>
       </div>
     </div>
   );
