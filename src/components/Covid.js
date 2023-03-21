@@ -33,7 +33,7 @@ const Covid = (props) => {
     
     <div className="stat place-items-center">
     <div className="stat-title text-cyan-600">New Confirmed Covid Cases</div>
-    <div className="stat-value text-secondary">{covidData.newCases.toLocaleString()}</div>
+    <div className="stat-value text-secondary">{covidData.newCases}</div>
     <div className="stat-desc text-cyan-800">As of {covidData.date}</div>
   </div>
   )

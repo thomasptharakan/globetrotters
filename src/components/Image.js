@@ -18,7 +18,7 @@ function Image(destination) {
     const params = {
         method: 'flickr.photos.search',
         api_key: 'cdbfa6bf4091f43cacbfcb52953f2c0c',
-        text: `${destination} tourism`,
+        text: `${destination} landmark`,
         per_page: 1,
         page: 1,
         sort: 'interestingness-desc',
