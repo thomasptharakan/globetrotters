@@ -2,7 +2,6 @@ import axios from "axios";
 import { useState, useEffect } from 'react'
 
 function Image(destination) {
-
     const [linkArray, setLinksArray] = useState()
 
     const getFlickrImageURL = (photo, size) => {
@@ -17,7 +16,7 @@ function Image(destination) {
 
     const params = {
         method: 'flickr.photos.search',
-        api_key: 'cdbfa6bf4091f43cacbfcb52953f2c0c',
+        api_key: process.env.REACT_APP_FLICKR_API_KEY,
         text: `${destination} landmark`,
         per_page: 1,
         page: 1,
