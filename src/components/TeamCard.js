@@ -14,8 +14,8 @@ function TeamCard({name, role, image, github, linkedin}) {
         <h2 className="card-title">{name}</h2>
         <p className="text-accent">{role}</p>
         <div className="card-actions">
-          <a className="text-4xl" href={linkedin} target="_blank"><i class="fa-brands fa-linkedin"></i></a>
-          <a className="text-4xl" href={github} target="_blank"><i class="fa-brands fa-github"></i></a>
+          <a className="text-4xl" href={linkedin} target="_blank" rel="noreferrer"><i class="fa-brands fa-linkedin"></i></a>
+          <a className="text-4xl" href={github} target="_blank" rel="noreferrer"><i class="fa-brands fa-github"></i></a>
         </div>
       </div>
     </div>

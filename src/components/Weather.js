@@ -35,15 +35,9 @@ console.log("resdata" + resdata);
     axios.get(uri)
       .then(function (res) {
 console.log(res.data);
-        setWeather(res.data);
         createCard(res.data);
       });
-// console.log(res_data);
-// console.log(res_data.city.name)
-// console.log(res_data.list[0].dt);
-    // Set the Card for display
-    // createCard(weather);
-  }, []);
+  }, [uri]);
 
   return (
     <React.Fragment>
