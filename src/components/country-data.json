@@ -44,7 +44,7 @@
         "description-country": "The Netherlands Antilles was a former Dutch colony in the Caribbean, consisting of several islands including Aruba, Bonaire, Curaçao, Saba, Sint Eustatius, and Sint Maarten. It was dissolved in 2010, and its constituent islands became autonomous territories of the Netherlands.",
         "description-city": "",
         "code": "AN",
-        "capital": ""
+        "capital": "Netherlands Antilles"
     },
     "Angola": {
         "description-country": "Angola is a country in southwestern Africa, bordered by Namibia, Zambia, the Democratic Republic of the Congo, and the Atlantic Ocean. It has a population of around 31.8 million people and an area of 1,246,700 square kilometers.",
@@ -56,7 +56,7 @@
         "description-country": "Antarctica is a continent located at the southernmost point of the Earth. It has no permanent residents and is governed by the Antarctic Treaty System, which mandates that the continent be used for peaceful purposes only.",
         "description-city": "",
         "code": "AQ",
-        "capital": ""
+        "capital": "Antarctica"
     },
     "Argentina": {
         "description-country": "Argentina is a large country in South America, bordered by Chile, Bolivia, Paraguay, Brazil, Uruguay, and the Atlantic Ocean. It has a population of around 45.5 million people and an area of 2,780,400 square kilometers.",
@@ -578,7 +578,7 @@
         "description-country": "Bouvet Island is an uninhabited subantarctic island located in the South Atlantic Ocean. It is one of the most remote islands in the world, and is covered by glaciers and ice caps.",
         "description-city": "",
         "code": "BV",
-        "capital": ""
+        "capital": "Bouvet Island"
     },
     "Botswana": {
         "description-country": "Botswana is a landlocked country in Southern Africa, known for its wildlife, natural beauty, and stable economy. It is home to the world-famous Okavango Delta and the Kalahari Desert.",
@@ -734,7 +734,7 @@
         "description-country": "South Georgia and the South Sandwich Islands is a British Overseas Territory located in the southern Atlantic Ocean, near Antarctica. The territory is uninhabited by humans, but is home to a variety of wildlife, including penguins, seals, and birds.",
         "description-city": "",
         "code": "GS",
-        "capital": ""
+        "capital": "South Georgia and the South Sandwich Islands"
     },
     "Guatemala": {
         "description-country": "Guatemala is a country located in Central America, bordered by Mexico to the north and west, Belize to the northeast, Honduras to the east, El Salvador to the southeast, and the Pacific Ocean to the south. It is known for its ancient Mayan ruins, beautiful landscapes, and vibrant culture.",
@@ -1358,19 +1358,13 @@
         "description-country": "The French Southern and Antarctic Lands are a group of islands and territories in the southern Indian Ocean, including the islands of Kerguelen, Saint-Paul, and Amsterdam. They are administered by France and are known for their unique wildlife, including penguins and seals.",
         "description-city": "There is no official capital of the French Southern and Antarctic Lands.",
         "code": "TF",
-        "capital": ""
-    },
-    "Bonaire Saint Eustatius and Saba": {
-        "description-country": "Bonaire, Saint Eustatius, and Saba are three islands in the Caribbean Sea that are special municipalities of the Netherlands. They are known for their coral reefs, beaches, and unique cultures.",
-        "description-city": "",
-        "code": "BQ",
-        "capital": ""
+        "capital": "French Southern Territories"
     },
     "Macao": {
         "description-country": "Macao is a special administrative region of China located on the southern coast. It is known for its blend of Portuguese and Chinese culture, as well as its casinos and entertainment industry.",
         "description-city": "Macao has no official capital, but its largest city is Macao.",
         "code": "MO",
-        "capital": ""
+        "capital": "Macao"
     },
     "Togo": {
         "description-country": "Togo is a small country in West Africa known for its diverse culture, music, and natural attractions, such as its beaches, waterfalls, and national parks.",
@@ -1394,7 +1388,7 @@
         "description-country": "Tokelau is a territory of New Zealand in the South Pacific Ocean. It is made up of three atolls and is known for its coral reefs, lagoons, and traditional way of life.",
         "description-city": "There are no cities in Tokelau.",
         "code": "TK",
-        "capital": ""
+        "capital": "Tokelau"
     },
     "Timor Leste": {
         "description-country": "Timor-Leste, also known as East Timor, is a small country in Southeast Asia. It is located on the eastern half of the island of Timor and is known for its rugged terrain and rich cultural heritage.",
@@ -1466,7 +1460,7 @@
         "description-country": "The United States Minor Outlying Islands are a group of nine islands and atolls in the Pacific and Indian Oceans. The islands have no permanent population and are mostly uninhabited, except for the military personnel and scientists stationed there.",
         "description-city": "There is no official capital of the United States Minor Outlying Islands.",
         "code": "UM",
-        "capital": ""
+        "capital": "United States Minor Outlying Islands"
     },
     "United States": {
         "description-country": "The United States of America is a federal republic consisting of 50 states, a federal district (Washington, D.C.), and five major territories. The country is known for its diverse culture, world-renowned landmarks, and global economic influence.",
