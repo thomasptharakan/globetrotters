@@ -2,7 +2,7 @@ import React from 'react'
 import moment from 'moment';
 import axios from "axios";
 import { useState, useEffect } from 'react'
-import popData from './population-data.json'
+import popData from '../assets/data/population-data.json'
 
 
 const Population = (props) => {

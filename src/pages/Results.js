@@ -3,7 +3,7 @@ import LocationCard from "../components/LocationCard";
 import Stats from "../components/Stats";
 import Image from '../components/Image'
 import { useLocation } from "react-router-dom";
-import countryData from '../components/country-data.json'
+import countryData from '../assets/data/country-data.json';
 
 function Results(props) {
 

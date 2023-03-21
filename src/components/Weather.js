@@ -1,7 +1,7 @@
 import React, { useState,useEffect } from 'react'
 import axios from 'axios';
 //temporary Solution to avoid calling the API too many times.
-import res_data from './1.json';
+import res_data from '../assets/data/1.json';
 
 const Weather = (props) => {
   const [weather,setWeather]   = useState({});

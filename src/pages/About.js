@@ -1,24 +1,27 @@
 import TeamCard from "../components/TeamCard";
+import AmarImg from "../assets/images/amar.png";
+import TTImg from "../assets/images/TT.png";
+import WaseemImg from "../assets/images/waseem.jpeg";
 
 const people = [
   {
     name: "Thomas Tharakan",
     role: "The Sidekick",
-    imageUrl: "./assets/TT.png",
+    imageUrl: TTImg,
     github: "https://github.com/thomasptharakan",
     linkedin: "https://uk.linkedin.com/in/thomastharakan",
   },
   {
     name: "Wasseem Mohammad",
     role: "The CSS Wizard",
-    imageUrl: "./assets/waseem.jpeg",
+    imageUrl: WaseemImg,
     github: "https://github.com/wmohammad83",
     linkedin: "https://uk.linkedin.com/in/waseem-mohammad-a587061b2",
   },
   {
     name: "Amar Malde",
     role: "The API Guy",
-    imageUrl: "./assets/amar.png",
+    imageUrl: AmarImg,
     github: "https://github.com/AmarMalde",
     linkedin: "https://uk.linkedin.com/in/amar-malde-61a867150",
   },
