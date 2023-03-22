@@ -5,8 +5,7 @@ function Image(destination) {
     const [linkArray, setLinksArray] = useState()
 
     const getFlickrImageURL = (photo, size) => {
-        let url = `https://farm${photo.farm}.staticflickr.com/${photo.server}/${photo.id}_${photo.secret
-            }`;
+        let url = `https://farm${photo.farm}.staticflickr.com/${photo.server}/${photo.id}_${photo.secret}`;
         if (size) {
             url += `_${size}`;
         }
@@ -18,7 +17,7 @@ function Image(destination) {
         method: 'flickr.photos.search',
         api_key: process.env.REACT_APP_FLICKR_API_KEY,
         text: `${destination} landmark`,
-        per_page: 1,
+        per_page: 8,
         page: 1,
         sort: 'interestingness-desc',
         format: 'json',
@@ -42,7 +41,7 @@ function Image(destination) {
         apiReq();
     }, []);
 
-
+console.log(linkArray);
     return (linkArray)
 
 }
