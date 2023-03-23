@@ -29,7 +29,7 @@ const people = [
 
 export default function About() {
   return (
-    <div className="bg-white py-24 sm:py-18">
+    <div className="bg-white py-24 sm:py-18 justify-center">
       <div className="">
           <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl text-center">
             Meet our Team
@@ -39,7 +39,7 @@ export default function About() {
           </p>
         </div>
 
-      <div className="container mx-auto grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        <div className = "mx-auto flex justify-center gap-10 md:grid-cols-2 lg:grid-cols-3r">
         {people.map((person) => (
           <TeamCard
             name={person.name}
@@ -49,7 +49,7 @@ export default function About() {
             linkedin={person.linkedin}
           />
         ))}
-      </div>
+        </div>
     </div>
   );
 }

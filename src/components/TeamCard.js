@@ -2,7 +2,7 @@ import React from "react";
 
 function TeamCard({name, role, image, github, linkedin}) {
   return (
-    <div className="mt-4 card w-96 bg-base-100 shadow-2xl">
+    <div className="mt-4 card w-96 bg-base-100 shadow-2xl justify-center">
       <figure className="px-10 pt-10">
         <img
           src={image}
