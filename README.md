@@ -44,7 +44,7 @@ Link to code : TBC
 ## Mock_Up
 The following mockup provides an overview of the output html generated:
 
-![Sample html image of Profile Site generated](/src/images/GT_Screen.png)
+![Sample html image of Profile Site generated](/src/assets/images/GT_Screen.png)
 
 
 

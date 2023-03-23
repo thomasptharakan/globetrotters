@@ -17,6 +17,7 @@ function CarouselDiv({ imageArray }) {
   }, [imageArray]);
 
   return (
+  //Return a set of images as a grid (tailwind UI)
     <div className="bg-white">
       <div className="mx-auto max-w-2xl py-16 px-4 sm:py-24 sm:px-6 lg:max-w-7xl lg:px-8">
         <h2 className="text-2xl font-bold tracking-tight text-gray-900">
@@ -28,7 +29,7 @@ function CarouselDiv({ imageArray }) {
               <div className="min-h-80 aspect-w-1 aspect-h-1 w-full overflow-hidden rounded-md bg-gray-200 group-hover:opacity-75 lg:aspect-none lg:h-80">
                 <img
                   src={product.imageSrc}
-                  alt="Country Image"
+                  alt="Country"
                   className="h-full w-full object-cover object-center lg:h-full lg:w-full"
                 />
               </div>

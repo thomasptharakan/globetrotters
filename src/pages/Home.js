@@ -7,29 +7,38 @@ import { useMemo } from "react";
 
 export default function Home() {
 
+  //Initialise  navigate  
   const navigate = useNavigate();
+  //Set Country Variable
   const [country, setCountry] = useState("");
+  //Initialise countryList data
   const options = useMemo(() => countryList().getData(), [])
 
+  //Handle Country change function
   const handleCountryInput = value => {
     setCountry(value);
     console.log(value.label);
   }
 
+  //Handle Submit function
   function handleEvent(event) {
     event.preventDefault();
     if (country!== ""){
+      //Navigate to results page
       navigate("/Results",{
+        //Set props for pass to Results page
         state:{
           location:country.label
         }
       });
     }else{
+      //Alert user has not entered Data
        alert("Numpty");
     }
     
   }
   return (
+    //Return HomePage
     <div className="bg-white">
       <div className="relative isolate px-6 pt-14 lg:px-8">
         <div className="mx-auto max-w-2xl py-32 sm:py-48 lg:py-56" style={{ padding: 0 }}>
@@ -54,7 +63,6 @@ export default function Home() {
                 <form>
                   <div className="card-body">
                     <div className="form-control">
-                      {/* <input type="text" placeholder="Country" onChange={handleCountryInput} className="input input-bordered" name="searchCountry" /> */}
                       <Select options={options} value={country} onChange={handleCountryInput} />
                     </div>
                     <div className="form-control mt-6">
