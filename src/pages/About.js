@@ -35,7 +35,7 @@ export default function About() {
             Meet our Team
           </h2>
           <p className="mt-6 text-lg leading-8 text-secondary text-center">
-            Meet the Team behind Globetrotter
+            Meet the Team behind GlobeTrotter
           </p>
         </div>
 
