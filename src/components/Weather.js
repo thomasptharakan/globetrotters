@@ -42,14 +42,14 @@ console.log(res.data);
   return (
     <React.Fragment>
       <div className="stat place-items-center">
-        <div className="stat-title text-cyan-600">Highest Temperature</div>
+        <div className="stat-title text-white">Highest Temperature</div>
         <div className="stat-value transition hover:scale-150"><img alt="High Weather Icon" src={weather.HighWeatherIcon} /></div>
-        <div className="stat-desc text-cyan-800">{weather.HighWeather}°C</div>
+        <div className="stat-desc text-white">{weather.HighWeather}°C</div>
       </div>
       <div className="stat place-items-center">
-        <div className="stat-title text-cyan-600">Lowest Temperature</div>
+        <div className="stat-title text-white">Lowest Temperature</div>
         <div className="stat-value transition hover:scale-150"><img alt="Low Weather Icon" src={weather.LowWeatherIcon} /></div>
-        <div className="stat-desc text-cyan-800">{weather.LowWeather}°C</div>
+        <div className="stat-desc text-white">{weather.LowWeather}°C</div>
       </div>
     </React.Fragment>
 

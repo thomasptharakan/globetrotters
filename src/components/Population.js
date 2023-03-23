@@ -14,9 +14,9 @@ const Population = (props) => {
   return (
 
     <div className="stat place-items-center">
-      <div className="stat-title text-cyan-600">Population of {location}</div>
-      <div className="stat-value">{((popData[location]) * 1).toLocaleString()}</div>
-      <div className="stat-desc">As of {currDate}</div>
+      <div className="stat-title text-white">Population of {location}</div>
+      <div className="stat-value text-secondary">{((popData[location]) * 1).toLocaleString()}</div>
+      <div className="stat-desc text-white">As of {currDate}</div>
     </div>
   )
 }

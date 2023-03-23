@@ -8,6 +8,7 @@ const Covid = (props) => {
     const countrySearch = props.location;
     const [covidData, setCovidData] = useState("");
 
+    
     useEffect(() => {
       const fetchData = async () => {
         const result = await axios("https://api.covid19api.com/summary");
@@ -30,11 +31,11 @@ const Covid = (props) => {
 
 
   return (
-    
+    // returns covid data
     <div className="stat place-items-center">
-    <div className="stat-title text-cyan-600">New Confirmed Covid Cases</div>
+    <div className="stat-title text-white">New Confirmed Covid Cases</div>
     <div className="stat-value text-secondary">{covidData.newCases}</div>
-    <div className="stat-desc text-cyan-800">As of {covidData.date}</div>
+    <div className="stat-desc text-white">As of {covidData.date}</div>
   </div>
   )
 }

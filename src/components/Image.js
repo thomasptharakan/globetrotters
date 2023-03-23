@@ -17,7 +17,7 @@ function Image(destination) {
         method: 'flickr.photos.search',
         api_key: process.env.REACT_APP_FLICKR_API_KEY,
         text: `${destination} landmark`,
-        per_page: 8,
+        per_page: 12,
         page: 1,
         sort: 'interestingness-desc',
         format: 'json',
