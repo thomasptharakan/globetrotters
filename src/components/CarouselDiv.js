@@ -1,16 +1,14 @@
-import { useEffect,useState } from "react";
-
+import { useEffect, useState } from "react";
 
 function CarouselDiv({ imageArray }) {
-  const [products,setProducts]  = useState([{}])
-    
-//Update the product state once imageArray gets updated
+  const [products, setProducts] = useState([{}]);
+
   useEffect(() => {
     let prodArray = [];
-    for (let i in imageArray){
+    for (let i in imageArray) {
       let prod = {
-        imageSrc : imageArray[i]
-      }  
+        imageSrc: imageArray[i],
+      };
       prodArray.push(prod);
     }
     setProducts(prodArray);
@@ -42,5 +40,3 @@ function CarouselDiv({ imageArray }) {
 }
 
 export default CarouselDiv;
-
-

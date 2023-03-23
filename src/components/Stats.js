@@ -8,7 +8,7 @@ import Population from "./Population";
 function Stats({ location , city }) {
   // console.log(location);
   return (
-    <div className="stats shadow-xl w-full">
+    <div className="stats shadow-xl w-full bg-neutral text-neutral-content">
       <Population location={location}/>
       <Covid location={location} />
       <Weather location={city}/>
