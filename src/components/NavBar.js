@@ -2,6 +2,7 @@ import { Disclosure } from "@headlessui/react";
 import { Bars3Icon, XMarkIcon } from "@heroicons/react/24/outline";
 import { NavLink } from "react-router-dom";
 
+//uses the below to dynaically create navbar buttons
 const navigation = [
   { name: "Home", href: "/", current: true },
   { name: "The Team", href: "/about", current: true },
@@ -11,6 +12,7 @@ function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
 }
 
+//navbar created using tailwind css & daisy ui
 export default function NavBar() {
   return (
     <Disclosure as="nav" className="bg-slate-800">
@@ -30,21 +32,9 @@ export default function NavBar() {
                 </Disclosure.Button>
               </div>
               <div className="flex flex-1  justify-center sm:items-stretch ">
-                <div className="flex flex-shrink-0 text-gray-400">
-                
-                  {/* <img
-                    className="block h-8 w-auto lg:hidden"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                    alt="Your Company"
-                  />
-                  <img
-                    className="hidden h-8 w-auto lg:block"
-                    src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
-                    alt="Your Company"
-                  /> */}
-                </div>
                 <div className="hidden sm:ml-6 sm:block">
                   <div className="flex space-x-4">
+                    {/* mapping over the naviagion objec tot dynamically create navar buttons */}
                     {navigation.map((item) => (
                       <NavLink
                         key={item.name}
@@ -65,7 +55,8 @@ export default function NavBar() {
               </div>
             </div>
           </div>
-
+          
+          {/* disclosure used to improve ui on smaller screens  */}
           <Disclosure.Panel className="sm:hidden">
             <div className="space-y-1 px-2 pt-2 pb-3">
               {navigation.map((item) => (
@@ -89,17 +80,5 @@ export default function NavBar() {
         </>
       )}
     </Disclosure>
-
-//     <div className="navbar bg-neutral text-neutral-content">
-//   <div className="flex-1">
-//     <a className="btn btn-ghost normal-case text-xl">daisyUI</a>
-//   </div>
-//   <div className="flex-none">
-//     <ul className="menu menu-horizontal px-1">
-//       <li><a>Search</a></li>
-//       <li><a>Item 3</a></li>
-//     </ul>
-//   </div>
-// </div>
   );
 }

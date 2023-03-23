@@ -1,6 +1,7 @@
 import React from "react";
 
-function LocationCard({ country, countryDescription, cityDescription, image }) {
+//destructuring props and entering and returning html using tailwind css/ daisy ui classes
+function LocationCard({ countryDescription, cityDescription }) {
   return (
     <div className="card lg:card-side bg-base-100 shadow-lg mb-6 ">
       <div className="card-body">

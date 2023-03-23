@@ -4,7 +4,7 @@ import Covid from "./Covid";
 import Population from "./Population";
 
 
-
+//destructuring props into country and city values for when components are called
 function Stats({ location , city }) {
   // console.log(location);
   return (

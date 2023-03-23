@@ -7,8 +7,10 @@ import popData from '../assets/data/population-data.json'
 
 const Population = (props) => {
 
+  //defining country variable
   const location = props.location;
 
+  //getting current date using moments
   const currDate = moment(Date()).format("MMMM YYYY");
 
   return (
