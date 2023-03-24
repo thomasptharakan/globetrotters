@@ -14,6 +14,10 @@ Link to code : TBC
 - [Usage](#usage)
 - [Mock Up](#mock_up)
 - [File Structure](#file_structure)
+- [Technologies](#technologes)
+- [Deployment](#deployment)
+- [NPM Packages](#npm_packages)
+- [APIs](#apis)
 - [Badges](#badges)
 - [License](#license)
 - [Credits](#credits)
@@ -100,14 +104,14 @@ To view the application, please visit [https://theglobetrotters.netlify.app](htt
   - GitHub
   - Netlify
 
-## NPM Packages used
+## NPM_Package
   - Axios
   - MomentJS
   - Country-List
   - Daisy UI
   - Tailwind CSS
 
-## APIs Used
+## APIs
   - Covid19
   - Open Weather
   - Flickr
