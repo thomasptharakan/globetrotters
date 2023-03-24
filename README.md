@@ -91,7 +91,27 @@ The following mockup provides an overview of the output html generated:
 ```
 ## Deployment
 
-To view the application, please click [here](https://theglobetrotters.netlify.app)
+To view the application, please visit [https://theglobetrotters.netlify.app](https://theglobetrotters.netlify.app.
+
+## Technologies 
+  - React
+  - NodeJS
+  - Git
+  - GitHub
+  - Netlify
+
+## NPM Packages used
+  - Axios
+  - MomentJS
+  - Country-List
+  - Daisy UI
+  - Tailwind CSS
+
+## APIs Used
+  - Covid19
+  - Open Weather
+  - Flickr
+  - Countries & Cities
 
 ## Badges
 
