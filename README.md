@@ -89,6 +89,9 @@ The following mockup provides an overview of the output html generated:
 └── README.md
 └── tailwind.config.js
 ```
+## Deployment
+
+To view the application, please click [here](https://theglobetrotters.netlify.app)
 
 ## Badges
 
